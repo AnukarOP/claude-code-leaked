@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 /**
  * Pure string utility functions for MCP tool/server name parsing.

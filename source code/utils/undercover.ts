@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 /**
  * Undercover mode — safety utilities for contributing to public/open-source repos.

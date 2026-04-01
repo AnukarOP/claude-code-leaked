@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // These constants are in a separate file to avoid circular dependency issues.
 // Do NOT add imports to this file - it must remain dependency-free.

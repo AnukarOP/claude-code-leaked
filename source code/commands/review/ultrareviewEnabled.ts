@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { getFeatureValue_CACHED_MAY_BE_STALE } from '../../services/analytics/growthbook.js'
 

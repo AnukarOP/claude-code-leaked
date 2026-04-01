@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // Content for the claude-api bundled skill.
 // Each .md file is inlined as a string at build time via Bun's text loader.

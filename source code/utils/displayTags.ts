@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 /**
  * Matches any XML-like `<tag>…</tag>` block (lowercase tag names, optional

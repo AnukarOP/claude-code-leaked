@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // Background task entry for auto-dream (memory consolidation subagent).
 // Makes the otherwise-invisible forked agent visible in the footer pill and

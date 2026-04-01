@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { updateSessionBridgeId } from '../utils/concurrentSessions.js'
 import type { ReplBridgeHandle } from './replBridge.js'

@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import React, { PureComponent, type ReactNode } from 'react';
 import { updateLastInteractionTime } from '../../bootstrap/state.js';

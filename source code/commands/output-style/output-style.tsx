@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import type { LocalJSXCommandOnDone } from '../../types/command.js';
 export async function call(onDone: LocalJSXCommandOnDone): Promise<undefined> {

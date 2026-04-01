@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { basename, dirname, isAbsolute, join, sep } from 'path'
 import type { ToolPermissionContext } from '../Tool.js'

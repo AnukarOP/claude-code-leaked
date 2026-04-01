@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // For legal and security concerns, we typically only allow Web Fetch to access
 // domains that the user has provided in some form. However, we make an

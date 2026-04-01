@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { c as _c } from "react/compiler-runtime";
 import React, { useCallback, useRef, useState } from 'react';

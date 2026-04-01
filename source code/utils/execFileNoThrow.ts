@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // This file represents useful wrappers over node:child_process
 // These wrappers ease error handling and cross-platform compatbility

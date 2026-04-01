@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { type Options as ExecaOptions, execaSync } from 'execa'
 import { getCwd } from '../utils/cwd.js'

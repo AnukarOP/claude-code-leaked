@@ -1,4 +1,3 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 export const NO_CONTENT_MESSAGE = '(no content)'

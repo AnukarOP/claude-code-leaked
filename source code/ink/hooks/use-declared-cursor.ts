@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { useCallback, useContext, useLayoutEffect, useRef } from 'react'
 import CursorDeclarationContext from '../components/CursorDeclarationContext.js'

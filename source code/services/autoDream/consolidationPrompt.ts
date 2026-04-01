@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // Extracted from dream.ts so auto-dream ships independently of KAIROS
 // feature flags (dream.ts is behind a feature()-gated require).

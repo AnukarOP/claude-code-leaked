@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import React from 'react'
 import { getDynamicConfig_BLOCKS_ON_INIT } from '../services/analytics/growthbook.js'

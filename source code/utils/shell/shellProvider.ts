@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 export const SHELL_TYPES = ['bash', 'powershell'] as const
 export type ShellType = (typeof SHELL_TYPES)[number]

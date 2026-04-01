@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import React, { useContext, useRef } from 'react';
 import { useTerminalViewport } from '../ink/hooks/use-terminal-viewport.js';

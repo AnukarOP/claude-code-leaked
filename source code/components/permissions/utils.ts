@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { getHostPlatformForAnalytics } from '../../utils/env.js'
 import { type CompletionType, logUnaryEvent } from '../../utils/unaryLogging.js'

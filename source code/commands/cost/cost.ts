@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { formatTotalCost } from '../../cost-tracker.js'
 import { currentLimits } from '../../services/claudeAiLimits.js'

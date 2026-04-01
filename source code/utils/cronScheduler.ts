@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // Non-React scheduler core for .claude/scheduled_tasks.json.
 // Shared by REPL (via useScheduledTasks) and SDK/-p mode (print.ts).

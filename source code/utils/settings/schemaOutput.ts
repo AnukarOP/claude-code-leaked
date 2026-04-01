@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { toJSONSchema } from 'zod/v4'
 import { jsonStringify } from '../slowOperations.js'

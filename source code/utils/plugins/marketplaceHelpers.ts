@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import isEqual from 'lodash-es/isEqual.js'
 import { toError } from '../errors.js'

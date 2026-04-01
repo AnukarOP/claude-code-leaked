@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import type { Attributes } from '@opentelemetry/api'
 import { getSessionId } from 'src/bootstrap/state.js'

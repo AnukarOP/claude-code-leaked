@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import type { ParsedKey } from '../parse-keypress.js'
 import { TerminalEvent } from './terminal-event.js'

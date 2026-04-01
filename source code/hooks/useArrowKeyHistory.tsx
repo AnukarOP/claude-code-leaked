@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import React, { useCallback, useRef, useState } from 'react';
 import { getModeFromInput } from 'src/components/PromptInput/inputModes.js';

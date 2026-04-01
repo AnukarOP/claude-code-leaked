@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // highlight.js's type defs carry `/// <reference lib="dom" />`. SSETransport,
 // mcp/client, ssh, dumpPrompts use DOM types (TextDecodeOptions, RequestInfo)

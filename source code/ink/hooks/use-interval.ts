@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { useContext, useEffect, useRef, useState } from 'react'
 import { ClockContext } from '../components/ClockContext.js'

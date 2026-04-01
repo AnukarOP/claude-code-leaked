@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import chokidar, { type FSWatcher } from 'chokidar'
 import { isAbsolute, join } from 'path'

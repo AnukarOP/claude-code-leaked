@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // Leaf config module — intentionally minimal imports so UI components
 // can read the auto-dream enabled state without dragging in the forked

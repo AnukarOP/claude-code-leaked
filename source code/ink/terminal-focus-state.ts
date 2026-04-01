@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // Terminal focus state signal — non-React access to DECSET 1004 focus events.
 // 'unknown' is the default for terminals that don't support focus reporting;

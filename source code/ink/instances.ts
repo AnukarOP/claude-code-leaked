@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // Store all instances of Ink (instance.js) to ensure that consecutive render() calls
 // use the same instance of Ink and don't create a new one

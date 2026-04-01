@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // Pure (non-React) kill helpers for LocalShellTask.
 // Extracted so runAgent.ts can kill agent-scoped bash tasks without pulling

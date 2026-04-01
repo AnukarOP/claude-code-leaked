@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import type { Attachment } from 'src/utils/attachments.js'
 import type { Message, NormalizedMessage } from '../../types/message.js'

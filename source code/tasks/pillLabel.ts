@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { DIAMOND_FILLED, DIAMOND_OPEN } from '../constants/figures.js'
 import { count } from '../utils/array.js'

@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import type { Tools } from '../../Tool.js'
 import { resolveAgentTools } from '../../tools/AgentTool/agentToolUtils.js'

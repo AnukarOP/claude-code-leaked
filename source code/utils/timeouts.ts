@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // Constants for timeout values
 const DEFAULT_TIMEOUT_MS = 120_000 // 2 minutes

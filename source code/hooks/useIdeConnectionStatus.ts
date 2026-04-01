@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { useMemo } from 'react'
 import type { MCPServerConnection } from '../services/mcp/types.js'

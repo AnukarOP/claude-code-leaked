@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 // Past tense verbs for turn completion messages
 // These verbs work naturally with "for [duration]" (e.g., "Worked for 5s")

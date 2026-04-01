@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { createHash, randomUUID, type UUID } from 'crypto'
 import { stat } from 'fs/promises'

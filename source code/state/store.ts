@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 type Listener = () => void
 type OnChange<T> = (args: { newState: T; oldState: T }) => void

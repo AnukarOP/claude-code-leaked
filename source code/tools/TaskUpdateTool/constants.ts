@@ -1,4 +1,3 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 export const TASK_UPDATE_TOOL_NAME = 'TaskUpdate'

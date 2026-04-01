@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 export const AGENT_TOOL_NAME = 'Agent'
 // Legacy wire name for backward compat (permission rules, hooks, resumed sessions)

@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 export const TEAM_LEAD_NAME = 'team-lead'
 export const SWARM_SESSION_NAME = 'claude-swarm'

@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { isPDFSupported } from '../../utils/pdfUtils.js'
 import { BASH_TOOL_NAME } from '../BashTool/toolName.js'

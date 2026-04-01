@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 /** Default per-session timeout (24 hours). */
 export const DEFAULT_SESSION_TIMEOUT_MS = 24 * 60 * 60 * 1000

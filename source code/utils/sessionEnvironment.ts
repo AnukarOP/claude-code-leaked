@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { mkdir, readdir, readFile, writeFile } from 'fs/promises'
 import { join } from 'path'

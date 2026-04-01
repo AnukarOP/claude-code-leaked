@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import type { HistoryMode } from 'src/hooks/useArrowKeyHistory.js'
 import type { PromptInputMode } from 'src/types/textInputTypes.js'

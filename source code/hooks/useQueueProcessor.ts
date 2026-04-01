@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { useEffect, useSyncExternalStore } from 'react'
 import type { QueuedCommand } from '../types/textInputTypes.js'

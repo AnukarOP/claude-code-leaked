@@ -1,5 +1,4 @@
-// GitHub: https://github.com/AnukarOP
-// Repo: https://github.com/AnukarOP/claude-code-leaked
+// https://github.com/AnukarOP
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useDynamicConfig } from 'src/hooks/useDynamicConfig.js';
