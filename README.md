@@ -1,6 +1,6 @@
 <div align="center">
 
-# - CLAUDE CODE SOURCE LEAKED
+# - CLAUDE CODE SOURCE LEAKED -
 
 ### ⚡ The Complete Anthropic Claude Code CLI Source Code ⚡
 <br/>
@@ -9,7 +9,7 @@
 
 <br/><br/>
 <a href="https://github.com/AnukarOP">
-<img src="https://img.shields.io/badge/👤_FOLLOW_@AnukarOP-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=FF6B6B" alt="Follow AnukarOP"/>
+<img src="https://img.shields.io/badge/⭐_FOLLOW_@AnukarOP_⭐-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow AnukarOP" height="35"/>
 </a>
 
 <br/><br/>
