@@ -1,6 +1,6 @@
 <div align="center">
 
-# - CLAUDE CODE SOURCE LEAKED -
+# - CLAUDE CODE SOURCE LEAKED :)
 
 ### ⚡ The Complete Anthropic Claude Code CLI Source Code ⚡
 <br/>
