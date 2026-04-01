@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { readdirSync } from 'fs'
 import { stat } from 'fs/promises'
 import { homedir, platform, tmpdir, userInfo } from 'os'

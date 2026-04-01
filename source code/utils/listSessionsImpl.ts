@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Standalone implementation of listSessions for the Agent SDK.
  *

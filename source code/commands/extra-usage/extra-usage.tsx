@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import React from 'react';
 import type { LocalJSXCommandContext } from '../../commands.js';
 import type { LocalJSXCommandOnDone } from '../../types/command.js';

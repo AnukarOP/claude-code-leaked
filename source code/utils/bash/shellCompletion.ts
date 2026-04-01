@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { SuggestionItem } from 'src/components/PromptInput/PromptInputFooterSuggestions.js'
 import {
   type ParseEntry,

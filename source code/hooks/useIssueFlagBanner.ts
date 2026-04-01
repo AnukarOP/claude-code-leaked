@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useMemo, useRef } from 'react'
 import { BASH_TOOL_NAME } from '../tools/BashTool/toolName.js'
 import type { Message } from '../types/message.js'

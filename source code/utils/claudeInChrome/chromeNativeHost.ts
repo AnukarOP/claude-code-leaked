@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // biome-ignore-all lint/suspicious/noConsole: file uses console intentionally
 /**
  * Chrome Native Host - Pure TypeScript Implementation

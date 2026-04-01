@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { logForDebugging } from '../../utils/debug.js'
 import { isBareMode } from '../../utils/envUtils.js'
 import { errorMessage } from '../../utils/errors.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Shared bridge auth/URL resolution. Consolidates the ant-only
  * CLAUDE_BRIDGE_* dev overrides that were previously copy-pasted across

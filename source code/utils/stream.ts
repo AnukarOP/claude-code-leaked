@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export class Stream<T> implements AsyncIterator<T> {
   private readonly queue: T[] = []
   private readResolve?: (value: IteratorResult<T>) => void

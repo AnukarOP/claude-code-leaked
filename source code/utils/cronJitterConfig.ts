@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // GrowthBook-backed cron jitter configuration.
 //
 // Separated from cronScheduler.ts so the scheduler can be bundled in the

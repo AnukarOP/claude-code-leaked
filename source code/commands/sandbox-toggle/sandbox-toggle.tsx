@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { relative } from 'path';
 import React from 'react';
 import { getCwdState } from '../../bootstrap/state.js';

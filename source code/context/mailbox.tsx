@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import React, { createContext, useContext, useMemo } from 'react';
 import { Mailbox } from '../utils/mailbox.js';

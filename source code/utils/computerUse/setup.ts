@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { buildComputerUseTools } from '@ant/computer-use-mcp'
 import { join } from 'path'
 import { fileURLToPath } from 'url'

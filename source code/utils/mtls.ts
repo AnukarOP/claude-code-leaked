@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type * as https from 'https'
 import { Agent as HttpsAgent } from 'https'
 import memoize from 'lodash-es/memoize.js'

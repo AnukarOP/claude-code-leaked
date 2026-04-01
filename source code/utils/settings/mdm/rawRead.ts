@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Minimal module for firing MDM subprocess reads without blocking the event loop.
  * Has minimal imports — only child_process, fs, and mdmConstants (which only imports os).

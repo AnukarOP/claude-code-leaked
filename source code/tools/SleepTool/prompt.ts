@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { TICK_TAG } from '../../constants/xml.js'
 
 export const SLEEP_TOOL_NAME = 'Sleep'

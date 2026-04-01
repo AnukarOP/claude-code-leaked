@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { ContentBlockParam } from '@anthropic-ai/sdk/resources/messages.js';
 import React from 'react';
 import type { LocalJSXCommandCall, LocalJSXCommandOnDone } from '../../types/command.js';

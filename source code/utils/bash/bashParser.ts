@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Pure-TypeScript bash parser producing tree-sitter-bash-compatible ASTs.
  *

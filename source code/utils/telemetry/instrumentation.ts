@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { DiagLogLevel, diag, trace } from '@opentelemetry/api'
 import { logs } from '@opentelemetry/api-logs'
 // OTLP/Prometheus exporters are dynamically imported inside the protocol

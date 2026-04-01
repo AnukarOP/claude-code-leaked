@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Special characters that macOS Option+key produces, mapped to their
 // keybinding equivalents. Used to detect Option+key shortcuts on macOS
 // terminals that don't have "Option as Meta" enabled.

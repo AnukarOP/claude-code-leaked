@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { readFile } from 'fs/promises'
 import { join, relative, resolve } from 'path'
 import { z } from 'zod/v4'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Thin launchers for one-off dialog JSX sites in main.tsx.
  * Each launcher dynamically imports its component and wires the `done` callback

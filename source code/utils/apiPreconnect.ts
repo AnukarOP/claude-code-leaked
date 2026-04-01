@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Preconnect to the Anthropic API to overlap TCP+TLS handshake with startup.
  *

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { LocalCommandCall } from '../../types/command.js'
 import { clearConversation } from './conversation.js'
 

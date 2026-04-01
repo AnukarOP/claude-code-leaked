@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import * as React from 'react';
 import { useEffect, useRef, useState } from 'react';
 import { TEARDROP_ASTERISK } from '../../constants/figures.js';

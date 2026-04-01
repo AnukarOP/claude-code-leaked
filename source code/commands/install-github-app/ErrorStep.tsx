@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import React from 'react';
 import { GITHUB_ACTION_SETUP_DOCS_URL } from '../../constants/github-app.js';

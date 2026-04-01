@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import React from 'react';
 import { jsonParse } from '../../utils/slowOperations.js';
 import type { Output } from './TeamDeleteTool.js';

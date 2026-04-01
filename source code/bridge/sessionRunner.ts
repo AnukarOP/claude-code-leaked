@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { type ChildProcess, spawn } from 'child_process'
 import { createWriteStream, type WriteStream } from 'fs'
 import { tmpdir } from 'os'

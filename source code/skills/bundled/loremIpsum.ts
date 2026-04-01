@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { registerBundledSkill } from '../bundledSkills.js'
 
 // Verified 1-token words (tested via API token counting)

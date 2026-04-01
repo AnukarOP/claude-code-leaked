@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export const DESCRIPTION = `
 Reads a specific resource from an MCP server.
 - server: The name of the MCP server to read from

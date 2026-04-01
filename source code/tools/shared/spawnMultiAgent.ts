@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Shared spawn module for teammate creation.
  * Extracted from TeammateTool to allow reuse by AgentTool.

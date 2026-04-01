@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { LspServerConfig } from '../services/lsp/types.js'
 import type { McpServerConfig } from '../services/mcp/types.js'
 import type { BundledSkillDefinition } from '../skills/bundledSkills.js'

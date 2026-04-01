@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { ChildProcess } from 'child_process'
 import { stat } from 'fs/promises'
 import type { Readable } from 'stream'

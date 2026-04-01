@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useContext, useEffect, useState } from 'react'
 import { ClockContext } from '../components/ClockContext.js'
 import type { DOMElement } from '../dom.js'

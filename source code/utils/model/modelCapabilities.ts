@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { readFileSync } from 'fs'
 import { mkdir, writeFile } from 'fs/promises'
 import isEqual from 'lodash-es/isEqual.js'

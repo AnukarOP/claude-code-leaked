@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { normalizeNameForMCP } from '../../services/mcp/normalization.js'
 import { env } from '../env.js'
 

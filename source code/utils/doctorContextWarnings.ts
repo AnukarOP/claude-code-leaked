@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { roughTokenCountEstimation } from '../services/tokenEstimation.js'
 import type { Tool, ToolPermissionContext } from '../Tool.js'
 import type { AgentDefinitionsResult } from '../tools/AgentTool/loadAgentsDir.js'

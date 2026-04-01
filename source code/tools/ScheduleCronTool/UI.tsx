@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import React from 'react';
 import { MessageResponse } from '../../components/MessageResponse.js';
 import { Text } from '../../ink.js';

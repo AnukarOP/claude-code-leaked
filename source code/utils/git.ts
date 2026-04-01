@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { createHash } from 'crypto'
 import { readFileSync, realpathSync, statSync } from 'fs'
 import { open, readFile, realpath, stat } from 'fs/promises'

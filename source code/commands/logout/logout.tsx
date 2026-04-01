@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import * as React from 'react';
 import { clearTrustedDeviceTokenCache } from '../../bridge/trustedDevice.js';
 import { Text } from '../../ink.js';

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { readdir, readFile } from 'fs/promises'
 import memoize from 'lodash-es/memoize.js'
 import { release as osRelease } from 'os'

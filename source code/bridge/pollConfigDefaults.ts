@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Bridge poll interval defaults. Extracted from pollConfig.ts so callers
  * that don't need live GrowthBook tuning (daemon via Agent SDK) can avoid

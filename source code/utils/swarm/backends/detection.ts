@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { env } from '../../../utils/env.js'
 import { execFileNoThrow } from '../../../utils/execFileNoThrow.js'
 import { TMUX_COMMAND } from '../constants.js'

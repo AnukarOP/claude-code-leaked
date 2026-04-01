@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { createHash, type UUID } from 'crypto'
 import { diffLines } from 'diff'
 import type { Stats } from 'fs'

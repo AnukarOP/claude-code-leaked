@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Path conversion utilities for IDE communication
  * Handles conversions between Claude's environment and the IDE's environment

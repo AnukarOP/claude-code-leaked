@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { feature } from 'bun:bundle'
 import { isBridgeEnabled } from '../../bridge/bridgeEnabled.js'
 import type { Command } from '../../commands.js'

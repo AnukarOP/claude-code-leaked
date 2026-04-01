@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Normalize camelCase `requestId` → snake_case `request_id` on incoming
  * control messages (control_request, control_response).

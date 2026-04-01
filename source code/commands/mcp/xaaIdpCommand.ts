@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * `claude mcp xaa` — manage the XAA (SEP-990) IdP connection.
  *

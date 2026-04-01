@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useEffect, useState } from 'react'
 import type { PastedContent } from 'src/utils/config.js'
 import { maybeTruncateInput } from './inputPaste.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Parse a CLI flag value early, before Commander.js processes arguments.
  * Supports both space-separated (--flag value) and equals-separated (--flag=value) syntax.

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Zod schema for keybindings.json configuration.
  * Used for validation and JSON schema generation.

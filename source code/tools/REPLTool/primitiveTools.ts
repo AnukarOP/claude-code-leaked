@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { Tool } from '../../Tool.js'
 import { AgentTool } from '../AgentTool/AgentTool.js'
 import { BashTool } from '../BashTool/BashTool.js'

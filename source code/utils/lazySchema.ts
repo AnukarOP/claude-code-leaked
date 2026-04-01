@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Returns a memoized factory function that constructs the value on first call.
  * Used to defer Zod schema construction from module init time to first access.

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useCallback, useState } from 'react'
 import type { OptionWithDescription } from './select.js'
 import { useSelectNavigation } from './use-select-navigation.js'

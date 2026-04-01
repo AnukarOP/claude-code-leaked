@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getMainThreadAgentType } from '../bootstrap/state.js'
 import type { HookResultMessage } from '../types/message.js'
 import { createAttachmentMessage } from './attachments.js'

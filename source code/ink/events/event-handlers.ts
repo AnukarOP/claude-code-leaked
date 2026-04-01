@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { ClickEvent } from './click-event.js'
 import type { FocusEvent } from './focus-event.js'
 import type { KeyboardEvent } from './keyboard-event.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { performBackgroundPluginInstallations } from '../../services/plugins/PluginInstallationManager.js';
 import type { AppState } from '../../state/AppState.js';
 import { checkHasTrustDialogAccepted } from '../config.js';

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export const REMOTE_TRIGGER_TOOL_NAME = 'RemoteTrigger'
 
 export const DESCRIPTION =

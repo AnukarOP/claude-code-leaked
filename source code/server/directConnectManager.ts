@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /* eslint-disable eslint-plugin-n/no-unsupported-features/node-builtins */
 
 import type { SDKMessage } from '../entrypoints/agentSdkTypes.js'

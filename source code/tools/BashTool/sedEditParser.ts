@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Parser for sed edit commands (-i flag substitutions)
  * Extracts file paths and substitution patterns to enable file-edit-style rendering

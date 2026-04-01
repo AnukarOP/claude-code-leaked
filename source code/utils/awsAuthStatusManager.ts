@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Singleton manager for cloud-provider authentication status (AWS Bedrock,
  * GCP Vertex). Communicates auth refresh state between auth utilities and

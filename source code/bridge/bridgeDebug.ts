@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { logForDebugging } from '../utils/debug.js'
 import { BridgeFatalError } from './bridgeApi.js'
 import type { BridgeApiClient } from './types.js'

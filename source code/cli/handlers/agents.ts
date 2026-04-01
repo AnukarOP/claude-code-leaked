@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Agents subcommand handler — prints the list of configured agents.
  * Dynamically imported only when `claude agents` runs.

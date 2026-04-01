@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Stub for external builds — the real hook is internal only.
 //
 // Self-contained: no relative imports. Typecheck sees this file at

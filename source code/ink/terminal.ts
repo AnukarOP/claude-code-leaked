@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { coerce } from 'semver'
 import type { Writable } from 'stream'
 import { env } from '../utils/env.js'

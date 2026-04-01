@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Voice service: audio recording for push-to-talk voice input.
 //
 // Recording uses native audio capture (cpal) on macOS, Linux, and Windows

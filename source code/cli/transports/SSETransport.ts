@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import axios, { type AxiosError } from 'axios'
 import type { StdoutMessage } from 'src/entrypoints/sdk/controlTypes.js'
 import { logForDebugging } from '../../utils/debug.js'

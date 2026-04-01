@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { BASH_TOOL_NAME } from '../../../tools/BashTool/toolName.js';
 import { extractOutputRedirections } from '../../../utils/bash/commands.js';
 import { isClassifierPermissionsEnabled } from '../../../utils/permissions/bashClassifier.js';

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export { MCPAgentServerMenu } from './MCPAgentServerMenu.js'
 export { MCPListPanel } from './MCPListPanel.js'
 export { MCPReconnect } from './MCPReconnect.js'

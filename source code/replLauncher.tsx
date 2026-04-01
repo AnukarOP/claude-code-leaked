@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import React from 'react';
 import type { StatsStore } from './context/stats.js';
 import type { Root } from './ink.js';

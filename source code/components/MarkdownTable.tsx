@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { Token, Tokens } from 'marked';
 import React from 'react';
 import stripAnsi from 'strip-ansi';

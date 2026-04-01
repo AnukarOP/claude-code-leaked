@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Tab expansion, inspired by Ghostty's Tabstops.zig
 // Uses 8-column intervals (POSIX default, hardcoded in terminals like Ghostty)
 

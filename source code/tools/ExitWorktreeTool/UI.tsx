@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import * as React from 'react';
 import { Box, Text } from '../../ink.js';
 import type { ToolProgressData } from '../../Tool.js';

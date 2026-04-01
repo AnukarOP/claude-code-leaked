@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { initializeAnalyticsSink } from '../services/analytics/sink.js'
 import { initializeErrorLogSink } from './errorLogSink.js'
 

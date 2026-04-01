@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Indirection point for the package.json "browser" field. When bun builds
 // browser-sdk.js with --target browser, this file is swapped for
 // crypto.browser.ts — avoiding a ~500KB crypto-browserify polyfill that Bun

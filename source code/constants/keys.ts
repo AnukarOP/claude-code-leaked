@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { isEnvTruthy } from '../utils/envUtils.js'
 
 // Lazy read so ENABLE_GROWTHBOOK_DEV from globalSettings.env (applied after

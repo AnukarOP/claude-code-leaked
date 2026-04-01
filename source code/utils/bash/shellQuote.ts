@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Safe wrappers for shell-quote library functions that handle errors gracefully
  * These are drop-in replacements for the original functions

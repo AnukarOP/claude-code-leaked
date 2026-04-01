@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export function getExitWorktreeToolPrompt(): string {
   return `Exit a worktree session created by EnterWorktree and return the session to the original working directory.
 

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Binary file extensions to skip for text-based operations.
  * These files can't be meaningfully compared as text and are often large.

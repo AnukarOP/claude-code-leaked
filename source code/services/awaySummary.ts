@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { APIUserAbortError } from '@anthropic-ai/sdk'
 import { getEmptyToolPermissionContext } from '../Tool.js'
 import type { Message } from '../types/message.js'

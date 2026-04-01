@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // ---------------------------------------------------------------------------
 // readFileInRange — line-oriented file reader with two code paths
 // ---------------------------------------------------------------------------

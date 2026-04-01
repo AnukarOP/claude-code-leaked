@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { z } from 'zod/v4'
 import { mcpInfoFromString } from '../../services/mcp/mcpStringUtils.js'
 import { lazySchema } from '../lazySchema.js'

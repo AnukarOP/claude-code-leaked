@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { findGitRoot } from '../git.js'
 
 // Note: This is used to check git repo status synchronously

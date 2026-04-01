@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { readdir } from 'fs/promises'
 import { join } from 'path'
 import { coerce as semverCoerce } from 'semver'

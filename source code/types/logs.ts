@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { UUID } from 'crypto'
 import type { FileHistorySnapshot } from 'src/utils/fileHistory.js'
 import type { ContentReplacementRecord } from 'src/utils/toolResultStorage.js'

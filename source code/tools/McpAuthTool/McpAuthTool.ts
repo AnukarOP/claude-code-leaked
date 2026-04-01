@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import reject from 'lodash-es/reject.js'
 import { z } from 'zod/v4'
 import { performMCPOAuthFlow } from '../../services/mcp/auth.js'

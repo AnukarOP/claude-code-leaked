@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { isEnvDefinedFalsy, isEnvTruthy } from '../../utils/envUtils.js'
 import { AGENT_TOOL_NAME } from '../AgentTool/constants.js'
 import { BASH_TOOL_NAME } from '../BashTool/toolName.js'

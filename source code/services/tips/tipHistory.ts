@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getGlobalConfig, saveGlobalConfig } from '../../utils/config.js'
 
 export function recordTipShown(tipId: string): void {

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { APIUserAbortError } from '@anthropic-ai/sdk'
 
 export class ClaudeError extends Error {

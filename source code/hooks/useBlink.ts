@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { type DOMElement, useAnimationFrame, useTerminalFocus } from '../ink.js'
 
 const BLINK_INTERVAL_MS = 600

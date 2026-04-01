@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { resolve } from 'path'
 import type { HookEvent } from 'src/entrypoints/agentSdkTypes.js'
 import { getSessionId } from '../../bootstrap/state.js'

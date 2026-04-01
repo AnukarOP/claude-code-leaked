@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /* eslint-disable eslint-plugin-n/no-unsupported-features/node-builtins */
 /**
  * CONNECT-over-WebSocket relay for CCR upstreamproxy.

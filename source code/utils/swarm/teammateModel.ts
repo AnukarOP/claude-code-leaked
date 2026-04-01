@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { CLAUDE_OPUS_4_6_CONFIG } from '../model/configs.js'
 import { getAPIProvider } from '../model/providers.js'
 

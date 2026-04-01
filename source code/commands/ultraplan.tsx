@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { readFileSync } from 'fs';
 import { REMOTE_CONTROL_DISCONNECTED_MSG } from '../bridge/types.js';
 import type { Command } from '../commands.js';

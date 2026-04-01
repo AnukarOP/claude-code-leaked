@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Memory-directory scanning primitives. Split out of findRelevantMemories.ts
  * so extractMemories can import the scan without pulling in sideQuery and

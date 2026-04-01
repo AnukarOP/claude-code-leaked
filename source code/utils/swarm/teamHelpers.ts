@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { mkdirSync, readFileSync, writeFileSync } from 'fs'
 import { mkdir, readFile, rm, writeFile } from 'fs/promises'
 import { join } from 'path'

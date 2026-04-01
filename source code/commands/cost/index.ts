@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Cost command - minimal metadata only.
  * Implementation is lazy-loaded from cost.ts to reduce startup time.

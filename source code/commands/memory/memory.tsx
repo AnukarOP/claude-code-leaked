@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { mkdir, writeFile } from 'fs/promises';
 import * as React from 'react';
 import type { CommandResultDisplay } from '../../commands.js';

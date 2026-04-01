@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Converts Zod v4 schemas to JSON Schema using native toJSONSchema.
  */

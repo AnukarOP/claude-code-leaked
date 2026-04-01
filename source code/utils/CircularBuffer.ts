@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * A fixed-size circular buffer that automatically evicts the oldest items
  * when the buffer is full. Useful for maintaining a rolling window of data.

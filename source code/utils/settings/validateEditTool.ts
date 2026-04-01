@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { ValidationResult } from 'src/Tool.js'
 import { isClaudeSettingsPath } from '../permissions/filesystem.js'
 import { validateSettingsFileContent } from './validation.js'

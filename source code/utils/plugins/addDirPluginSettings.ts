@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Reads plugin-related settings (enabledPlugins, extraKnownMarketplaces)
  * from --add-dir directories.

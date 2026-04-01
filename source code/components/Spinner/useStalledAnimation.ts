@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useRef } from 'react'
 
 // Hook to handle the transition to red when tokens stop flowing.

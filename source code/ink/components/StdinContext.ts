@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { createContext } from 'react'
 import { EventEmitter } from '../events/emitter.js'
 import type { TerminalQuerier } from '../terminal-querier.js'

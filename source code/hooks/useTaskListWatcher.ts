@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { type FSWatcher, watch } from 'fs'
 import { useEffect, useRef } from 'react'
 import { logForDebugging } from '../utils/debug.js'

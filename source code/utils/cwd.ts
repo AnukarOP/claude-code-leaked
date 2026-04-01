@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { AsyncLocalStorage } from 'async_hooks'
 import { getCwdState, getOriginalCwd } from '../bootstrap/state.js'
 

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { ContentBlockParam } from '@anthropic-ai/sdk/resources/index.mjs'
 import { constants as fsConstants } from 'fs'
 import { mkdir, open } from 'fs/promises'

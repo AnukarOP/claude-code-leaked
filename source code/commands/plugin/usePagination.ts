@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useCallback, useMemo, useRef } from 'react'
 
 const DEFAULT_MAX_VISIBLE = 5

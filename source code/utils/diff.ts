@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { type StructuredPatchHunk, structuredPatch } from 'diff'
 import { logEvent } from 'src/services/analytics/index.js'
 import { getLocCounter } from '../bootstrap/state.js'

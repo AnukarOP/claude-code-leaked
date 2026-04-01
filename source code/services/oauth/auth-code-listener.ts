@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { IncomingMessage, ServerResponse } from 'http'
 import { createServer, type Server } from 'http'
 import type { AddressInfo } from 'net'

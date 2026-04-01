@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { SDKMessage } from 'src/entrypoints/agentSdkTypes.js'
 import { checkGate_CACHED_OR_BLOCKING } from '../../../services/analytics/growthbook.js'
 import { isPolicyAllowed } from '../../../services/policyLimits/index.js'

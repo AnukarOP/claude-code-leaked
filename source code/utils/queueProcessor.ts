@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { QueuedCommand } from '../types/textInputTypes.js'
 import {
   dequeue,

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Git-related behaviors that depend on user settings.
 //
 // This lives outside git.ts because git.ts is in the vscode extension's

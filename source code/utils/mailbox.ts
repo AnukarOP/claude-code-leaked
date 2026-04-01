@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { createSignal } from './signal.js'
 
 export type MessageSource = 'user' | 'teammate' | 'system' | 'tick' | 'task'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useCallback, useRef } from 'react'
 import { useTerminalFocus } from '../ink/hooks/use-terminal-focus.js'
 import {

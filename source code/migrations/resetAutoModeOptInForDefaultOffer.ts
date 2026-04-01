@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { feature } from 'bun:bundle'
 import { logEvent } from 'src/services/analytics/index.js'
 import { getGlobalConfig, saveGlobalConfig } from '../utils/config.js'

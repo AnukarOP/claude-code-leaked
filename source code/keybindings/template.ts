@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Keybindings template generator.
  * Generates a well-documented template file for ~/.claude/keybindings.json

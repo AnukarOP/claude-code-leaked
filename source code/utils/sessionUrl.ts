@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { randomUUID, type UUID } from 'crypto'
 import { validateUuid } from './uuid.js'
 

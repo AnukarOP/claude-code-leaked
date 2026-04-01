@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getActiveTimeCounter as getActiveTimeCounterImpl } from '../bootstrap/state.js'
 
 type ActivityManagerOptions = {

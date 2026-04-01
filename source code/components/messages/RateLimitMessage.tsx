@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import React, { useEffect, useMemo, useState } from 'react';
 import { extraUsage } from 'src/commands/extra-usage/index.js';

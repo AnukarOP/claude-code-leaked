@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getGlobalConfig, saveGlobalConfig } from '../config.js'
 
 const SKILL_USAGE_DEBOUNCE_MS = 60_000

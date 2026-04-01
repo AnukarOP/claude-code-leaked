@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * CLI `ComputerExecutor` implementation. Wraps two native modules:
  *   - `@ant/computer-use-input` (Rust/enigo) — mouse, keyboard, frontmost app

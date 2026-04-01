@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { APIError } from '@anthropic-ai/sdk'
 import type { MessageParam } from '@anthropic-ai/sdk/resources/index.mjs'
 import isEqual from 'lodash-es/isEqual.js'

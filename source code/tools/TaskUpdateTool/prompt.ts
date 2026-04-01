@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export const DESCRIPTION = 'Update a task in the task list'
 
 export const PROMPT = `Use this tool to update a task in the task list.

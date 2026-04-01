@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getLocalMonthYear } from 'src/constants/common.js'
 
 export const WEB_SEARCH_TOOL_NAME = 'WebSearch'

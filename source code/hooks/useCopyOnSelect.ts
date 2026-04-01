@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useEffect, useRef } from 'react'
 import { useTheme } from '../components/design-system/ThemeProvider.js'
 import type { useSelection } from '../ink/hooks/use-selection.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export type SessionState = 'idle' | 'running' | 'requires_action'
 
 /**

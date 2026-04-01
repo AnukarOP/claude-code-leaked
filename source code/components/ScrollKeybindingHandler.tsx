@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import React, { type RefObject, useEffect, useRef } from 'react';
 import { useNotifications } from '../context/notifications.js';
 import { useCopyOnSelect, useSelectionBgColor } from '../hooks/useCopyOnSelect.js';

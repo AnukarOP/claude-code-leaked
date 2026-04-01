@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import axios from 'axios'
 import { z } from 'zod/v4'
 import { getOauthConfig } from '../../constants/oauth.js'

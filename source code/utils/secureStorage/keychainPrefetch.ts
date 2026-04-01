@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Minimal module for firing macOS keychain reads in parallel with main.tsx
  * module evaluation, same pattern as startMdmRawRead() in settings/mdm/rawRead.ts.

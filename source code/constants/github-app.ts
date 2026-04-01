@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export const PR_TITLE = 'Add Claude Code GitHub Workflow'
 
 export const GITHUB_ACTION_SETUP_DOCS_URL =

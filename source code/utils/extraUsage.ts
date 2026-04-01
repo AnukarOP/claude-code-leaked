@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { isClaudeAISubscriber } from './auth.js'
 import { has1mContext } from './context.js'
 

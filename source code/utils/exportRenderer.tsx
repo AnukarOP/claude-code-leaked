@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import React, { useRef } from 'react';
 import stripAnsi from 'strip-ansi';
 import { Messages } from '../components/Messages.js';

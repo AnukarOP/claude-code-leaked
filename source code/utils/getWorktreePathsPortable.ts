@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { execFile as execFileCb } from 'child_process'
 import { promisify } from 'util'
 

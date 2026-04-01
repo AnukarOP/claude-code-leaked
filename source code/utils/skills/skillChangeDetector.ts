@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import chokidar, { type FSWatcher } from 'chokidar'
 import * as platformPath from 'path'
 import { getAdditionalDirectoriesForClaudeMd } from '../../bootstrap/state.js'

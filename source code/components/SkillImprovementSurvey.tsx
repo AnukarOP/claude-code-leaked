@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import React, { useEffect, useRef } from 'react';
 import { BLACK_CIRCLE, BULLET_OPERATOR } from '../constants/figures.js';

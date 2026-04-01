@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { AnyValueMap, Logger, logs } from '@opentelemetry/api-logs'
 import { resourceFromAttributes } from '@opentelemetry/resources'
 import {

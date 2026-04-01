@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getSessionMemoryContent } from '../../services/SessionMemory/sessionMemoryUtils.js'
 import type { Message } from '../../types/message.js'
 import { getMessagesAfterCompactBoundary } from '../../utils/messages.js'

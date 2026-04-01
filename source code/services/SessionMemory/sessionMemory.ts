@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Session Memory automatically maintains a markdown file with notes about the current conversation.
  * It runs periodically in the background using a forked subagent to extract key information

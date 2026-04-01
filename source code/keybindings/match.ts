@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { Key } from '../ink.js'
 import type { ParsedBinding, ParsedKeystroke } from './types.js'
 

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Leaf config module — intentionally minimal imports so UI components
 // can read the auto-dream enabled state without dragging in the forked
 // agent / task registry / message builder chain that autoDream.ts pulls in.

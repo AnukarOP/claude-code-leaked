@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { validateBoundedIntEnvVar } from '../envValidation.js'
 
 export const BASH_MAX_OUTPUT_UPPER_LIMIT = 150_000

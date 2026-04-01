@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useKeybindings } from '../keybindings/useKeybinding.js'
 import { type ExitState, useExitOnCtrlCD } from './useExitOnCtrlCD.js'
 

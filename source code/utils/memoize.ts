@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { LRUCache } from 'lru-cache'
 import { logError } from './log.js'
 import { jsonStringify } from './slowOperations.js'

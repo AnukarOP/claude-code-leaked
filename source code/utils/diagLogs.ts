@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { dirname } from 'path'
 import { getFsImplementation } from './fsOperations.js'
 import { jsonStringify } from './slowOperations.js'

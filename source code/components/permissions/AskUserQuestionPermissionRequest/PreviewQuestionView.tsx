@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import figures from 'figures';
 import React, { useCallback, useMemo, useRef, useState } from 'react';
 import { useTerminalSize } from '../../../hooks/useTerminalSize.js';

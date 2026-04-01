@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { feature } from 'bun:bundle'
 import { open } from 'fs/promises'
 import { basename, dirname, join, sep } from 'path'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getBudgetContinuationMessage } from '../utils/tokenBudget.js'
 
 const COMPLETION_THRESHOLD = 0.9

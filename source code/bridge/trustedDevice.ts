@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import axios from 'axios'
 import memoize from 'lodash-es/memoize.js'
 import { hostname } from 'os'

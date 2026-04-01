@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { UUID } from 'crypto'
 import { getSessionId } from '../../bootstrap/state.js'
 import type { ToolUseContext } from '../../Tool.js'

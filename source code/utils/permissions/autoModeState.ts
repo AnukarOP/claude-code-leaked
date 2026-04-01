@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Auto mode state functions — lives in its own module so callers can
 // conditionally require() it on feature('TRANSCRIPT_CLASSIFIER').
 

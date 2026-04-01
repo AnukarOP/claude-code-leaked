@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { realpath, stat } from 'fs/promises'
 import { getPlatform } from '../platform.js'
 import { which } from '../which.js'

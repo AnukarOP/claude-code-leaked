@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { mkdir, open, unlink } from 'fs/promises'
 import { join } from 'path'
 import type { SettingSource } from 'src/utils/settings/constants.js'

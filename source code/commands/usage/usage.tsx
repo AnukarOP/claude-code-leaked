@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import * as React from 'react';
 import { Settings } from '../../components/Settings/Settings.js';
 import type { LocalJSXCommandCall } from '../../types/command.js';

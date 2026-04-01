@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { feature } from 'bun:bundle';
 
 // Bugfix for corepack auto-pinning, which adds yarnpkg to peoples' package.jsons

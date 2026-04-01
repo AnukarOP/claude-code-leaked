@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { logForDebugging } from 'src/utils/debug.js'
 import { z } from 'zod/v4'
 import { lazySchema } from '../../utils/lazySchema.js'

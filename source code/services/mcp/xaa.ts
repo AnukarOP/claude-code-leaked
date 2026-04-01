@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Cross-App Access (XAA) / Enterprise Managed Authorization (SEP-990)
  *

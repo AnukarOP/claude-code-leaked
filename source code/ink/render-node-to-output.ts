@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import indentString from 'indent-string'
 import { applyTextStyles } from './colorize.js'
 import type { DOMElement } from './dom.js'

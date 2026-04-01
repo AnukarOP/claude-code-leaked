@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { checkOpus1mAccess, checkSonnet1mAccess } from './check1mAccess.js'
 import { getUserSpecifiedModelSetting } from './model.js'
 

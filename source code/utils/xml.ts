@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Escape XML/HTML special characters for safe interpolation into element
  * text content (between tags). Use when untrusted strings (process stdout,

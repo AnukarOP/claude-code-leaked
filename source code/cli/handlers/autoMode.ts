@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Auto mode subcommand handlers — dump default/merged classifier rules and
  * critique user-written rules. Dynamically imported when `claude auto-mode ...` runs.

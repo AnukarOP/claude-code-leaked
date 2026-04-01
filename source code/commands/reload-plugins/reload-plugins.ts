@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { feature } from 'bun:bundle'
 import { getIsRemoteMode } from '../../bootstrap/state.js'
 import { redownloadUserSettings } from '../../services/settingsSync/index.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { z } from 'zod/v4'
 import { logEvent } from '../../services/analytics/index.js'
 import { sanitizeToolNameForAnalytics } from '../../services/analytics/metadata.js'

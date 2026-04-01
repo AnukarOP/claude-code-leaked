@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Selectors for deriving computed state from AppState.
  * Keep selectors pure and simple - just data extraction, no side effects.

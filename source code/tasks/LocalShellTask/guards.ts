@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Pure type + type guard for LocalShellTask state.
 // Extracted from LocalShellTask.tsx so non-React consumers (stopTask.ts via
 // print.ts) don't pull React/ink into the module graph.

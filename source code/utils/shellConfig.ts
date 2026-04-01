@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Utilities for managing shell configuration files (like .bashrc, .zshrc)
  * Used for managing claude aliases and PATH entries

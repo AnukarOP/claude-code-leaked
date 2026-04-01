@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getSettings_DEPRECATED } from '../settings/settings.js'
 import { isModelAlias, isModelFamilyAlias } from './aliases.js'
 import { parseUserSpecifiedModel } from './model.js'

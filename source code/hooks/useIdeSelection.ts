@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useEffect, useRef } from 'react'
 import { logError } from 'src/utils/log.js'
 import { z } from 'zod/v4'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { feature } from 'bun:bundle'
 import { initAutoDream } from '../services/autoDream/autoDream.js'
 import { initMagicDocs } from '../services/MagicDocs/magicDocs.js'

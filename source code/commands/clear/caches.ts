@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Session cache clearing utilities.
  * This module is imported at startup by main.tsx, so keep imports minimal.

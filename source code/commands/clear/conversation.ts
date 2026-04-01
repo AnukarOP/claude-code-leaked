@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Conversation clearing utility.
  * This module has heavier dependencies and should be lazy-loaded when possible.

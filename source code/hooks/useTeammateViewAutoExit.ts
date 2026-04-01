@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useEffect } from 'react'
 import { useAppState, useSetAppState } from '../state/AppState.js'
 import { exitTeammateView } from '../state/teammateViewHelpers.js'

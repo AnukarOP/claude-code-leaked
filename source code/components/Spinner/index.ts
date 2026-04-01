@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export { FlashingChar } from './FlashingChar.js'
 export { GlimmerMessage } from './GlimmerMessage.js'
 export { ShimmerChar } from './ShimmerChar.js'

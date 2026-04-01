@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import figures from 'figures'
 import memoize from 'lodash-es/memoize.js'
 import { getOutputStyleDirStyles } from '../outputStyles/loadOutputStylesDir.js'

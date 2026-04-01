@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Tracks commands recently denied by the auto mode classifier.
  * Populated from useCanUseTool.ts, read from RecentDenialsTab.tsx in /permissions.

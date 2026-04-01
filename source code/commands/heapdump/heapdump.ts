@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { performHeapDump } from '../../utils/heapDumpService.js'
 
 export async function call(): Promise<{ type: 'text'; value: string }> {

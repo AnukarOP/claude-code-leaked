@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { QuerySource } from 'src/constants/querySource.js'
 import {
   DEFAULT_OUTPUT_STYLE_NAME,

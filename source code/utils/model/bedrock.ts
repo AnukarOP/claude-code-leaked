@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import memoize from 'lodash-es/memoize.js'
 import { refreshAndGetAwsCredentials } from '../auth.js'
 import { getAWSRegion, isEnvTruthy } from '../envUtils.js'

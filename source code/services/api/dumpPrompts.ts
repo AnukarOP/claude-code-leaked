@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { ClientOptions } from '@anthropic-ai/sdk'
 import { createHash } from 'crypto'
 import { promises as fs } from 'fs'

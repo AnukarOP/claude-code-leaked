@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Classify an MCP tool as a search/read operation for UI collapsing.
  * Returns { isSearch: false, isRead: false } for tools that should not

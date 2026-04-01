@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Voice keyterms for improving STT accuracy in the voice_stream endpoint.
 //
 // Provides domain-specific vocabulary hints (Deepgram "keywords") so the STT

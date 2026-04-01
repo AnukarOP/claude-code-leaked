@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Lock file whose mtime IS lastConsolidatedAt. Body is the holder's PID.
 //
 // Lives inside the memory dir (getAutoMemPath) so it keys on git-root

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { normalizeLanguageForSTT } from '../../hooks/useVoice.js'
 import { getShortcutDisplay } from '../../keybindings/shortcutFormat.js'
 import { logEvent } from '../../services/analytics/index.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { type StructuredPatchHunk, structuredPatch } from 'diff'
 import { logError } from 'src/utils/log.js'
 import { expandPath } from 'src/utils/path.js'

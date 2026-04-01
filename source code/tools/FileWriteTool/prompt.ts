@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { FILE_READ_TOOL_NAME } from '../FileReadTool/prompt.js'
 
 export const FILE_WRITE_TOOL_NAME = 'Write'

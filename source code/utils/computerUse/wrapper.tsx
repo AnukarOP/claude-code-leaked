@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * The `.call()` override — thin adapter between `ToolUseContext` and
  * `bindSessionContext`. Spread into the MCP tool object in `client.ts`

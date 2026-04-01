@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { isAbsolute, normalize } from 'path'
 import { logForDebugging } from '../debug.js'
 import { isENOENT } from '../errors.js'

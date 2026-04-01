@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useCallback, useMemo, useState } from 'react'
 import useApp from '../ink/hooks/use-app.js'
 import type { KeybindingContextName } from '../keybindings/types.js'

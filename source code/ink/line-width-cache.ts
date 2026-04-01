@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { stringWidth } from './stringWidth.js'
 
 // During streaming, text grows but completed lines are immutable.

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { z } from 'zod/v4'
 import {
   isUnsafeCompoundCommand_DEPRECATED,

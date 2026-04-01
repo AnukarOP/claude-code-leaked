@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { isAgentSwarmsEnabled } from '../../utils/agentSwarmsEnabled.js'
 
 export const DESCRIPTION = 'Create a new task in the task list'

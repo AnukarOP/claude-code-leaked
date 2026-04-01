@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { DEFAULT_BINDINGS } from '../../keybindings/defaultBindings.js'
 import { isKeybindingCustomizationEnabled } from '../../keybindings/loadUserBindings.js'
 import {

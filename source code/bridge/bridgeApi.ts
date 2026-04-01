@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import axios from 'axios'
 
 import { debugBody, extractErrorDetail } from './debugUtils.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import * as React from 'react';
 import { useMemoryUsage } from '../hooks/useMemoryUsage.js';
 import { Box, Text } from '../ink.js';

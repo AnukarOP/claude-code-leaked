@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { randomUUID } from 'crypto'
 import { LRUCache } from 'lru-cache'
 import { logForDebugging } from '../../utils/debug.js'

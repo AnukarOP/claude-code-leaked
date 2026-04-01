@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { SettingSource } from './constants.js'
 import type { SettingsJson } from './types.js'
 import type { SettingsWithErrors, ValidationError } from './validation.js'

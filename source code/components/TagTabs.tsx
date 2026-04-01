@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import React from 'react';
 import { stringWidth } from '../ink/stringWidth.js';
 import { Box, Text } from '../ink.js';

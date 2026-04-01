@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { Dirent, Stats } from 'fs'
 import { readdir, readFile, stat } from 'fs/promises'
 import * as path from 'path'

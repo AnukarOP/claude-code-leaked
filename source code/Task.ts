@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { randomBytes } from 'crypto'
 import type { AppState } from './state/AppState.js'
 import type { AgentId } from './types/ids.js'

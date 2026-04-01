@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Cross-platform terminal clearing with scrollback support.
  * Detects modern terminals that support ESC[3J for clearing scrollback.

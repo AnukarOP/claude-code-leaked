@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useContext } from 'react'
 import TerminalFocusContext from '../components/TerminalFocusContext.js'
 

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import figures from 'figures';
 import { homedir } from 'os';
 import * as React from 'react';

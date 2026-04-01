@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { isEnvTruthy } from 'src/utils/envUtils.js'
 
 // Default to prod config, override with test/staging if enabled

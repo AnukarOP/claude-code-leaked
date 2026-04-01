@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export const BRIEF_TOOL_NAME = 'SendUserMessage'
 export const LEGACY_BRIEF_TOOL_NAME = 'Brief'
 

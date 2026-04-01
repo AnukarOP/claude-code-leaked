@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { ComputerUseAPI } from '@ant/computer-use-swift'
 
 let cached: ComputerUseAPI | undefined

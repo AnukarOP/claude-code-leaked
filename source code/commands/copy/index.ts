@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Copy command - minimal metadata only.
  * Implementation is lazy-loaded from copy.tsx to reduce startup time.

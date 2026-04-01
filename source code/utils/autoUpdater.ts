@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import axios from 'axios'
 import { constants as fsConstants } from 'fs'
 import { access, writeFile } from 'fs/promises'

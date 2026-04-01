@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { randomUUID } from 'crypto'
 import { queryModelWithStreaming } from '../services/api/claude.js'
 import { autoCompactIfNeeded } from '../services/compact/autoCompact.js'

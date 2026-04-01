@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { TaskStateBase } from '../../Task.js'
 import type { AgentToolResult } from '../../tools/AgentTool/agentToolUtils.js'
 import type { AgentDefinition } from '../../tools/AgentTool/loadAgentsDir.js'

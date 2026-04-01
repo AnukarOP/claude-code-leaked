@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // biome-ignore-all assist/source/organizeImports: ANT-ONLY import markers must not be reordered
 // Background memory consolidation. Fires the /dream prompt as a forked
 // subagent when time-gate passes AND enough sessions have accumulated.

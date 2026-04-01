@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Headless mode profiling utility for measuring per-turn latency in -p (print) mode.
  *

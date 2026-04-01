@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getDynamicConfig_CACHED_MAY_BE_STALE } from './growthbook.js'
 
 // Mangled name: per-sink analytics killswitch

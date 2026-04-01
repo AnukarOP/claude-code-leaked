@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { StructuredPatchHunk } from 'diff';
 import * as React from 'react';
 import { Box, NoSelect, Text } from '../ink.js';

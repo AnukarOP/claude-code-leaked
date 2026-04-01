@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * OAuth redirect port helpers — extracted from auth.ts to break the
  * auth.ts ↔ xaaIdpLogin.ts circular dependency.

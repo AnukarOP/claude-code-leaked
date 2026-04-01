@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { execFileNoThrow } from './execFileNoThrow.js'
 import { getBranch, getDefaultBranch, getIsGit } from './git.js'
 import { jsonParse } from './slowOperations.js'

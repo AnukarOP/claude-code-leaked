@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import Fuse from 'fuse.js'
 import { basename } from 'path'
 import type { SuggestionItem } from 'src/components/PromptInput/PromptInputFooterSuggestions.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { readdir, rm, stat, unlink, writeFile } from 'fs/promises'
 import { join } from 'path'
 import { clearCommandsCache } from '../../commands.js'

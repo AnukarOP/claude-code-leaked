@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { join } from 'path'
 import { expandEnvVarsInString } from '../../services/mcp/envExpansion.js'
 import {

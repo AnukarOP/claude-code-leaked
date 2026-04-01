@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Peer address parsing — kept separate from peerRegistry.ts so that
  * SendMessageTool can import parseAddress without transitively loading

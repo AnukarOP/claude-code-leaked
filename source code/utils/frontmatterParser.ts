@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Frontmatter parser for markdown files
  * Extracts and parses YAML frontmatter between --- delimiters

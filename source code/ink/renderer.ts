@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { logForDebugging } from 'src/utils/debug.js'
 import { type DOMElement, markDirty } from './dom.js'
 import type { Frame } from './frame.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * MCP subcommand handlers — extracted from main.tsx for lazy loading.
  * These are dynamically imported only when the corresponding `claude mcp *` command runs.

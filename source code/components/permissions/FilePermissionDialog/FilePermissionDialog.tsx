@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { relative } from 'path';
 import React, { useMemo } from 'react';
 import { useDiffInIDE } from '../../../hooks/useDiffInIDE.js';

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import figures from 'figures'
 import type { Command } from '../../commands.js'
 import { SandboxManager } from '../../utils/sandbox/sandbox-adapter.js'

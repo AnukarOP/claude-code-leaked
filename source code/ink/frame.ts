@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { Cursor } from './cursor.js'
 import type { Size } from './layout/geometry.js'
 import type { ScrollHint } from './render-node-to-output.js'

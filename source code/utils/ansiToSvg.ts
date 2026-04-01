@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Converts ANSI-escaped terminal text to SVG format
  * Supports basic ANSI color codes (foreground colors)

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { LocalCommandResult } from '../../commands.js'
 import type { ToolUseContext } from '../../Tool.js'
 

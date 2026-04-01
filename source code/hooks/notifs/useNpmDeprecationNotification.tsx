@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { isInBundledMode } from 'src/utils/bundledMode.js';
 import { getCurrentInstallationType } from 'src/utils/doctorDiagnostic.js';
 import { isEnvTruthy } from 'src/utils/envUtils.js';

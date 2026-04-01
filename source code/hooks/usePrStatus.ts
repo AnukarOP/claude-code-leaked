@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useEffect, useRef, useState } from 'react'
 import { getLastInteractionTime } from '../bootstrap/state.js'
 import { fetchPrStatus, type PrReviewState } from '../utils/ghPrStatus.js'

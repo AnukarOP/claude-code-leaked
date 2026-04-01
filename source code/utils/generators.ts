@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 const NO_VALUE = Symbol('NO_VALUE')
 
 export async function lastX<A>(as: AsyncGenerator<A>): Promise<A> {

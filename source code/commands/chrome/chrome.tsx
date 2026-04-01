@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import React, { useState } from 'react';
 import { type OptionWithDescription, Select } from '../../components/CustomSelect/select.js';

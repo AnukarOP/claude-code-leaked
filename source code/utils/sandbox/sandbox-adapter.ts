@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Adapter layer that wraps @anthropic-ai/sandbox-runtime with Claude CLI-specific integrations.
  * This file provides the bridge between the external sandbox-runtime package and Claude CLI's

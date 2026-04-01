@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import codeExcerpt, { type CodeExcerpt } from 'code-excerpt';
 import { readFileSync } from 'fs';
 import React from 'react';

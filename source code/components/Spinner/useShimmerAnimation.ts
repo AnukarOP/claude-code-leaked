@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useMemo } from 'react'
 import { stringWidth } from '../../ink/stringWidth.js'
 import { type DOMElement, useAnimationFrame } from '../../ink.js'

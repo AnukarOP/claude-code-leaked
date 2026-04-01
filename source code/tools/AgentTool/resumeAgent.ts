@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { promises as fsp } from 'fs'
 import { getSdkAgentProgressSummariesEnabled } from '../../bootstrap/state.js'
 import { getSystemPrompt } from '../../constants/prompts.js'

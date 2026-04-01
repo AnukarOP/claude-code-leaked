@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { execa } from 'execa'
 import { logForDebugging } from '../debug.js'
 import { memoizeWithLRU } from '../memoize.js'

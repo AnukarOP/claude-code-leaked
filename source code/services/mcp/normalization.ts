@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Pure utility functions for MCP name normalization.
  * This file has no dependencies to avoid circular imports.

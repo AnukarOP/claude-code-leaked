@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Channel notifications — lets an MCP server push user messages into the
  * conversation. A "channel" (Discord, Slack, SMS, etc.) is just an MCP server

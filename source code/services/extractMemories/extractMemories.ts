@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Extracts durable memories from the current session transcript
  * and writes them to the auto-memory directory (~/.claude/projects/<path>/memory/).

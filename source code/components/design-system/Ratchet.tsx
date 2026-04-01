@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import React, { useCallback, useLayoutEffect, useRef, useState } from 'react';
 import { useTerminalSize } from '../../hooks/useTerminalSize.js';

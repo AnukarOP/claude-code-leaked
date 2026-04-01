@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import React, { type PropsWithChildren, type Ref } from 'react';
 import Box from '../../ink/components/Box.js';

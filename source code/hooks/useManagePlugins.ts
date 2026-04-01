@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useCallback, useEffect } from 'react'
 import type { Command } from '../commands.js'
 import { useNotifications } from '../context/notifications.js'

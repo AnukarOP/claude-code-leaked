@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Random word slug generator for plan IDs
  * Inspired by https://github.com/nas5w/random-word-slugs

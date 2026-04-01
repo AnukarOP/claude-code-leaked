@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { resetSdkInitState } from '../../bootstrap/state.js'
 import { isRestrictedToPluginOnly } from '../settings/pluginOnlyPolicy.js'
 // Import as module object so spyOn works in tests (direct imports bypass spies)

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import React, { useCallback, useState } from 'react'
 import type { Key } from '../ink.js'
 import type { VimInputState, VimMode } from '../types/textInputTypes.js'

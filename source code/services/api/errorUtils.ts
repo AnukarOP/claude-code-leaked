@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { APIError } from '@anthropic-ai/sdk'
 
 // SSL/TLS error codes from OpenSSL (used by both Node.js and Bun)

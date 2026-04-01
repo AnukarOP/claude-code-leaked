@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Abort-responsive sleep. Resolves after `ms` milliseconds, or immediately
  * when `signal` aborts (so backoff loops don't block shutdown).

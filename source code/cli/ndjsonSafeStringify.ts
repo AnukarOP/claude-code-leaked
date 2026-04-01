@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { jsonStringify } from '../utils/slowOperations.js'
 
 // JSON.stringify emits U+2028/U+2029 raw (valid per ECMA-404). When the

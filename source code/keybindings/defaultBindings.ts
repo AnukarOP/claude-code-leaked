@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { feature } from 'bun:bundle'
 import { satisfies } from 'src/utils/semver.js'
 import { isRunningWithBun } from '../utils/bundledMode.js'

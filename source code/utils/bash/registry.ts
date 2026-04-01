@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { memoizeWithLRU } from '../memoize.js'
 import specs from './specs/index.js'
 

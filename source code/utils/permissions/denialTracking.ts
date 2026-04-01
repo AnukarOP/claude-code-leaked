@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Denial tracking infrastructure for permission classifiers.
  * Tracks consecutive denials and total denials to determine

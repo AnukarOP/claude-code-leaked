@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import figures from 'figures'
 import { logError } from 'src/utils/log.js'
 import { callIdeRpc } from '../services/mcp/client.js'

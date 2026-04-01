@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { randomUUID } from 'crypto'
 import { copyFile, writeFile } from 'fs/promises'
 import memoize from 'lodash-es/memoize.js'

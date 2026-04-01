@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Types extracted to src/types/permissions.ts to break import cycles
 import type {
   PermissionAllowDecision,

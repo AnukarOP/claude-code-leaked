@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Parse plugin subcommand arguments into structured commands
 export type ParsedCommand =
   | { type: 'menu' }

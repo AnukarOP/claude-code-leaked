@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { join } from 'path'
 import type { LocalCommandResult } from '../../commands.js'
 import { loadInstalledPluginsV2 } from '../../utils/plugins/installedPluginsManager.js'

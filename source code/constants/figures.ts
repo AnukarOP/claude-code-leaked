@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { env } from '../utils/env.js'
 
 // The former is better vertically aligned, but isn't usually supported on Windows/Linux

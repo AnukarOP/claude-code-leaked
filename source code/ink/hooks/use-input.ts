@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useEffect, useLayoutEffect } from 'react'
 import { useEventCallback } from 'usehooks-ts'
 import type { InputEvent, Key } from '../events/input-event.js'

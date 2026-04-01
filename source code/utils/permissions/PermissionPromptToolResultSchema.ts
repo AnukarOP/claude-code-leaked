@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { Tool, ToolUseContext } from 'src/Tool.js'
 import z from 'zod/v4'
 import { logForDebugging } from '../debug.js'

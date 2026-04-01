@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Shared attachment validation + resolution for SendUserMessage and
  * SendUserFile. Lives in BriefTool/ so the dynamic `./upload.js` import

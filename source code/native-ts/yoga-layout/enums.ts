@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Yoga enums — ported from yoga-layout/src/generated/YGEnums.ts
  * Kept as `const` objects (not TS enums) per repo convention.

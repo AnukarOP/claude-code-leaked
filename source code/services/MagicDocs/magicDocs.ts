@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Magic Docs automatically maintains markdown documentation files marked with special headers.
  * When a file with "# MAGIC DOC: [title]" is read, it runs periodically in the background

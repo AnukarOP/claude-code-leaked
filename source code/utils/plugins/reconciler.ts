@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Marketplace reconciler — makes known_marketplaces.json consistent with
  * declared intent in settings.

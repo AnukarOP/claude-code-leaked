@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { realpath } from 'fs/promises'
 import ignore from 'ignore'
 import memoize from 'lodash-es/memoize.js'

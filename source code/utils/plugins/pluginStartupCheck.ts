@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { join } from 'path'
 import { getCwd } from '../cwd.js'
 import { logForDebugging } from '../debug.js'

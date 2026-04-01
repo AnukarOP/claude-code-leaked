@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import type { ContentBlockParam } from '@anthropic-ai/sdk/resources/messages.mjs';
 import { useEffect, useRef } from 'react';

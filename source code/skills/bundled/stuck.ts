@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { registerBundledSkill } from '../bundledSkills.js'
 
 // Prompt text contains `ps` commands as instructions for Claude to run,

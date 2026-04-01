@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import React from 'react';
 import { Doctor } from '../../screens/Doctor.js';
 import type { LocalJSXCommandCall } from '../../types/command.js';

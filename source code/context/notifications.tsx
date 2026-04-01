@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type * as React from 'react';
 import { useCallback, useEffect } from 'react';
 import { useAppStateStore, useSetAppState } from 'src/state/AppState.js';

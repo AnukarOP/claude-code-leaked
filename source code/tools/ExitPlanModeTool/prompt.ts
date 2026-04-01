@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // External stub for ExitPlanModeTool prompt - excludes Ant-only allowedPrompts section
 
 // Hardcoded to avoid relative import issues in stub

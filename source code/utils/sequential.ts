@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 type QueueItem<T extends unknown[], R> = {
   args: T
   resolve: (value: R) => void

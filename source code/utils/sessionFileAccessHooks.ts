@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Session file access analytics hooks.
  * Tracks access to session memory and transcript files via Read, Grep, Glob tools.

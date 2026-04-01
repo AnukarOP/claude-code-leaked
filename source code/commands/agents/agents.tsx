@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import * as React from 'react';
 import { AgentsMenu } from '../../components/agents/AgentsMenu.js';
 import type { ToolUseContext } from '../../Tool.js';

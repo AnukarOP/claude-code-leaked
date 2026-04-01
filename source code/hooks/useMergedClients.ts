@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import uniqBy from 'lodash-es/uniqBy.js'
 import { useMemo } from 'react'
 import type { MCPServerConnection } from '../services/mcp/types.js'

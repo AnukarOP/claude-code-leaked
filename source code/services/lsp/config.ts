@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { PluginError } from '../../types/plugin.js'
 import { logForDebugging } from '../../utils/debug.js'
 import { errorMessage, toError } from '../../utils/errors.js'

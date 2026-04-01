@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Matches any XML-like `<tag>…</tag>` block (lowercase tag names, optional
  * attributes, multi-line content). Used to strip system-injected wrapper tags

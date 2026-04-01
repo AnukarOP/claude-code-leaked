@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getFeatureValue_CACHED_MAY_BE_STALE } from '../../services/analytics/growthbook.js'
 import type { MCPServerConnection } from '../../services/mcp/types.js'
 import { isPolicyAllowed } from '../../services/policyLimits/index.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Scheduled prompts, stored in <project>/.claude/scheduled_tasks.json.
 //
 // Tasks come in two flavors:

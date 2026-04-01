@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Teleported /ultrareview execution. Creates a CCR session with the current repo,
  * sends the review prompt as the initial message, and registers a

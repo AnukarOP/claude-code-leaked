@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * REPL-specific wrapper around initBridgeCore. Owns the parts that read
  * bootstrap state — gates, cwd, session ID, git context, OAuth, title

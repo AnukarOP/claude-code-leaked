@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { Command } from '../../../commands.js';
 import type { MCPServerConnection, ServerResource } from '../../../services/mcp/types.js';
 import type { Tool } from '../../../Tool.js';

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { chmodSync, writeFileSync as fsWriteFileSync } from 'fs'
 import { realpath, stat } from 'fs/promises'
 import { homedir } from 'os'

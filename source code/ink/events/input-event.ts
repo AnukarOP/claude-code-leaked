@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { nonAlphanumericKeys, type ParsedKey } from '../parse-keypress.js'
 import { Event } from './event.js'
 

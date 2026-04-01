@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getFeatureValue_CACHED_MAY_BE_STALE } from 'src/services/analytics/growthbook.js'
 import { splitCommand_DEPRECATED } from '../../utils/bash/commands.js'
 import { SandboxManager } from '../../utils/sandbox/sandbox-adapter.js'

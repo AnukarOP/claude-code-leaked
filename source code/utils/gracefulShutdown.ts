@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import chalk from 'chalk'
 import { writeSync } from 'fs'
 import memoize from 'lodash-es/memoize.js'

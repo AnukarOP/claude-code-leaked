@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { buildPrefix } from '../shell/specPrefix.js'
 import { splitCommand_DEPRECATED } from './commands.js'
 import { extractCommandArguments, parseCommand } from './parser.js'

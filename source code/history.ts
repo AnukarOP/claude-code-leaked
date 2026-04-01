@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { appendFile, writeFile } from 'fs/promises'
 import { join } from 'path'
 import { getProjectRoot, getSessionId } from './bootstrap/state.js'

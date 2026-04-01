@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { SETTING_SOURCES, type SettingSource } from '../settings/constants.js'
 import {
   getSettings_DEPRECATED,

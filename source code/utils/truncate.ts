@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Width-aware truncation/wrapping — needs ink/stringWidth (not leaf-safe).
 
 import { stringWidth } from '../ink/stringWidth.js'

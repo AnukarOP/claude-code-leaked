@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { Command } from '../../commands.js'
 import { isPolicyAllowed } from '../../services/policyLimits/index.js'
 import { isEnvTruthy } from '../../utils/envUtils.js'

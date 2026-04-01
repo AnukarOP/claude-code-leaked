@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import memoize from 'lodash-es/memoize.js'
 import sample from 'lodash-es/sample.js'
 import { getCwd } from '../utils/cwd.js'

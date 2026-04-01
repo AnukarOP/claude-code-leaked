@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Error IDs for tracking error sources in production.
  * These IDs are obfuscated identifiers that help us trace

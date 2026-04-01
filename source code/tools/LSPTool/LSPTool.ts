@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { open } from 'fs/promises'
 import * as path from 'path'
 import { pathToFileURL } from 'url'

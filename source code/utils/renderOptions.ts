@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { openSync } from 'fs'
 import { ReadStream } from 'tty'
 import type { RenderOptions } from '../ink.js'

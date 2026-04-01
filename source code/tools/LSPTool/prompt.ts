@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export const LSP_TOOL_NAME = 'LSP' as const
 
 export const DESCRIPTION = `Interact with Language Server Protocol (LSP) servers to get code intelligence features.

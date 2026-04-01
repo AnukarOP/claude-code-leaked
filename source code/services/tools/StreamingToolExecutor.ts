@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { ToolUseBlock } from '@anthropic-ai/sdk/resources/index.mjs'
 import {
   createUserMessage,

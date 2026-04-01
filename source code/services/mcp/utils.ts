@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { createHash } from 'crypto'
 import { join } from 'path'
 import { getIsNonInteractiveSession } from '../../bootstrap/state.js'

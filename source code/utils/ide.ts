@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { Client } from '@modelcontextprotocol/sdk/client/index.js'
 import axios from 'axios'
 import { execa } from 'execa'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { sep } from 'path'
 import { getOriginalCwd } from '../bootstrap/state.js'
 import type { LogOption } from '../types/logs.js'

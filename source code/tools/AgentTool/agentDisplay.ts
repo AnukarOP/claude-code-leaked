@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Shared utilities for displaying agent information.
  * Used by both the CLI `claude agents` handler and the interactive `/agents` command.

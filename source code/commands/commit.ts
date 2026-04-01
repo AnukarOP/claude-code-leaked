@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { Command } from '../commands.js'
 import { getAttributionTexts } from '../utils/attribution.js'
 import { executeShellCommandsInPrompt } from '../utils/promptShellExecution.js'

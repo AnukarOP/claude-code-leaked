@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Session Memory utility functions that can be imported without circular dependencies.
  * These are separate from the main sessionMemory.ts to avoid importing runAgent.

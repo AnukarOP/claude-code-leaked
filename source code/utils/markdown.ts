@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import chalk from 'chalk'
 import { marked, type Token, type Tokens } from 'marked'
 import stripAnsi from 'strip-ansi'

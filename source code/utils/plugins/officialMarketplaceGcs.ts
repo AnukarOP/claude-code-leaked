@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * inc-5046: fetch the official marketplace from a GCS mirror instead of
  * git-cloning GitHub on every startup.

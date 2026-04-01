@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { AddressFamily, LookupAddress as AxiosLookupAddress } from 'axios'
 import { lookup as dnsLookup } from 'dns'
 import { isIP } from 'net'

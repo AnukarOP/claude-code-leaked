@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { checkInstall } from 'src/utils/nativeInstaller/index.js';
 import { useStartupNotification } from './useStartupNotification.js';
 export function useInstallMessages() {

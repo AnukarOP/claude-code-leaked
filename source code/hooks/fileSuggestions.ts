@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { statSync } from 'fs'
 import ignore from 'ignore'
 import * as path from 'path'

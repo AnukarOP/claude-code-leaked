@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useContext, useEffect } from 'react'
 import stripAnsi from 'strip-ansi'
 import { OSC, osc } from '../termio/osc.js'

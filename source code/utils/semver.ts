@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Semver comparison utilities that use Bun.semver when available
  * and fall back to the npm `semver` package in Node.js environments.

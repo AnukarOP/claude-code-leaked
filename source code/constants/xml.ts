@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // XML tag names used to mark skill/command metadata in messages
 export const COMMAND_NAME_TAG = 'command-name'
 export const COMMAND_MESSAGE_TAG = 'command-message'

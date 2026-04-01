@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Scheduler lease lock for .claude/scheduled_tasks.json.
 //
 // When multiple Claude sessions run in the same project directory, only one

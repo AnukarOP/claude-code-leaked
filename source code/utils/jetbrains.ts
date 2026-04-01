@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { homedir, platform } from 'os'
 import { join } from 'path'
 import { getFsImplementation } from '../utils/fsOperations.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * PowerShell Common Parameters (available on all cmdlets via [CmdletBinding()]).
  * Source: about_CommonParameters (PowerShell docs) + Get-Command output.

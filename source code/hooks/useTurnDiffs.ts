@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { StructuredPatchHunk } from 'diff'
 import { useMemo, useRef } from 'react'
 import type { FileEditOutput } from '../tools/FileEditTool/types.js'

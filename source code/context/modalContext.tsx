@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import { createContext, type RefObject, useContext } from 'react';
 import type { ScrollBoxHandle } from '../ink/components/ScrollBox.js';

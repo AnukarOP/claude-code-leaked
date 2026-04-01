@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { getIsNonInteractiveSession } from '../../bootstrap/state.js'
 import type { AppState } from '../../state/AppState.js'
 import type { Message } from '../../types/message.js'

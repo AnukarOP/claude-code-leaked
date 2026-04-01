@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useContext, useMemo, useSyncExternalStore } from 'react'
 import StdinContext from '../components/StdinContext.js'
 import instances from '../instances.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Utility for inserting a block into a content array relative to tool_result
  * blocks. Used by the API layer to position supplementary content (e.g.,

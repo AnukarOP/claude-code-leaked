@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import * as React from 'react';
 import { RemoteEnvironmentDialog } from '../../components/RemoteEnvironmentDialog.js';
 import type { LocalJSXCommandOnDone } from '../../types/command.js';

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Critical system constants extracted to break circular dependencies
 
 import { feature } from 'bun:bundle'

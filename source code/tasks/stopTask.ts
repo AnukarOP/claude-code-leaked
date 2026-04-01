@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Shared logic for stopping a running task.
 // Used by TaskStopTool (LLM-invoked) and SDK stop_task control request.
 

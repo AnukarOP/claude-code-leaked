@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useSyncExternalStore } from 'react'
 import { compactWarningStore } from './compactWarningState.js'
 

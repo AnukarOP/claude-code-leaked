@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { LocalCommandResult } from '../../types/command.js'
 import { openBrowser } from '../../utils/browser.js'
 

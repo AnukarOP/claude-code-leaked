@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { chmodSync } from 'fs'
 import { join } from 'path'
 import { getClaudeConfigHomeDir } from '../envUtils.js'

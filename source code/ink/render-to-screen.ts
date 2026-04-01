@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import noop from 'lodash-es/noop.js'
 import type { ReactElement } from 'react'
 import { LegacyRoot } from 'react-reconciler/constants.js'

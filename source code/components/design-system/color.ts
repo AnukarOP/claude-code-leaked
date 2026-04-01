@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { type ColorType, colorize } from '../../ink/colorize.js'
 import type { Color } from '../../ink/styles.js'
 import { getTheme, type Theme, type ThemeName } from '../../utils/theme.js'

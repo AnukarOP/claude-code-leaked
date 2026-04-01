@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { queryHaiku } from '../../services/api/claude.js'
 import { logError } from '../log.js'
 import { extractTextContent } from '../messages.js'

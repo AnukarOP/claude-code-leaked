@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { ZodIssueCode } from 'zod/v4'
 
 // v4 ZodIssueCode is a value, not a type - use typeof to get the type

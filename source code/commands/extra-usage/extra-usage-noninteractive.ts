@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { runExtraUsage } from './extra-usage-core.js'
 
 export async function call(): Promise<{ type: 'text'; value: string }> {

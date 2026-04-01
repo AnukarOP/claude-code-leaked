@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useEffect, useReducer } from 'react'
 import { onGrowthBookRefresh } from '../services/analytics/growthbook.js'
 import { useAppState } from '../state/AppState.js'

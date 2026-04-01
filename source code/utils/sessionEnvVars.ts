@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Session-scoped environment variables set via /env.
  * Applied only to spawned child processes (via bash provider env overrides),

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { API_IMAGE_MAX_BASE64_SIZE } from '../constants/apiLimits.js'
 import { logEvent } from '../services/analytics/index.js'
 import { formatFileSize } from './format.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 export function intersperse<A>(as: A[], separator: (index: number) => A): A[] {
   return as.flatMap((a, i) => (i ? [separator(i), a] : [a]))
 }

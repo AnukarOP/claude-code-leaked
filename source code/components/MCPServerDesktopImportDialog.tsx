@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import React, { useCallback, useEffect, useState } from 'react';
 import { gracefulShutdown } from 'src/utils/gracefulShutdown.js';

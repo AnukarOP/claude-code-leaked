@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useCallback, useSyncExternalStore } from 'react'
 import { formatDuration } from '../utils/format.js'
 

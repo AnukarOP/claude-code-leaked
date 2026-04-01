@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /* eslint-disable custom-rules/no-process-exit -- CLI subcommand handler intentionally exits */
 
 import {

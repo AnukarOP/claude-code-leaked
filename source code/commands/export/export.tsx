@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { join } from 'path';
 import React from 'react';
 import { ExportDialog } from '../../components/ExportDialog.js';

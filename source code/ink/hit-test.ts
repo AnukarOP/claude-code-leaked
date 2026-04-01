@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { DOMElement } from './dom.js'
 import { ClickEvent } from './events/click-event.js'
 import type { EventHandlerProps } from './events/event-handlers.js'

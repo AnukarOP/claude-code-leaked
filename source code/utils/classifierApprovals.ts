@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Tracks which tool uses were auto-approved by classifiers.
  * Populated from useCanUseTool.ts and permissions.ts, read from UserToolSuccessMessage.tsx.

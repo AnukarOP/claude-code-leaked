@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Centralized analytics/telemetry logging for tool permission decisions.
 // All permission approve/reject events flow through logPermissionDecision(),
 // which fans out to Statsig analytics, OTel telemetry, and code-edit metrics.

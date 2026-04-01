@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { fileURLToPath } from 'url'
 import type { PublishDiagnosticsParams } from 'vscode-languageserver-protocol'
 import { logForDebugging } from '../../utils/debug.js'

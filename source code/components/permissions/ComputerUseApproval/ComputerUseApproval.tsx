@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { c as _c } from "react/compiler-runtime";
 import { getSentinelCategory } from '@ant/computer-use-mcp/sentinelApps';
 import type { CuPermissionRequest, CuPermissionResponse } from '@ant/computer-use-mcp/types';

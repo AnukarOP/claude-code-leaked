@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import * as React from 'react';
 import { useEffect, useMemo, useState } from 'react';
 import { useRegisterOverlay } from '../context/overlayContext.js';

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Tracks timestamps of in-process settings-file writes so the chokidar watcher
  * in changeDetector.ts can ignore its own echoes.

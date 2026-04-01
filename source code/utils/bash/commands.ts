@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { randomBytes } from 'crypto'
 import type { ControlOperator, ParseEntry } from 'shell-quote'
 import {

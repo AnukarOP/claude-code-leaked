@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { URL } from 'url'
 import { isEnvTruthy } from '../../utils/envUtils.js'
 import { HybridTransport } from './HybridTransport.js'

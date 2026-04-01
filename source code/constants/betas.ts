@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { feature } from 'bun:bundle'
 
 export const CLAUDE_CODE_20250219_BETA_HEADER = 'claude-code-20250219'

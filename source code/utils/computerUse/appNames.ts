@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Filter and sanitize installed-app data for inclusion in the `request_access`
  * tool description. Ported from Cowork's appNames.ts. Two

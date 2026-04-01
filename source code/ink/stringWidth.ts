@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import emojiRegex from 'emoji-regex'
 import { eastAsianWidth } from 'get-east-asian-width'
 import stripAnsi from 'strip-ansi'

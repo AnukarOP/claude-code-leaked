@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { feature } from 'bun:bundle'
 import partition from 'lodash-es/partition.js'
 import uniqBy from 'lodash-es/uniqBy.js'

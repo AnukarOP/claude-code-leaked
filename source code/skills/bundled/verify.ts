@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { parseFrontmatter } from '../../utils/frontmatterParser.js'
 import { registerBundledSkill } from '../bundledSkills.js'
 import { SKILL_FILES, SKILL_MD } from './verifyContent.js'

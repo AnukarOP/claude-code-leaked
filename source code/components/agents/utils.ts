@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import capitalize from 'lodash-es/capitalize.js'
 import type { SettingSource } from 'src/utils/settings/constants.js'
 import { getSettingSourceName } from 'src/utils/settings/constants.js'

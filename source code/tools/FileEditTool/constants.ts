@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // In its own file to avoid circular dependencies
 export const FILE_EDIT_TOOL_NAME = 'Edit'
 

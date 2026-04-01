@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { readFile } from 'fs/promises'
 import memoize from 'lodash-es/memoize.js'
 import type { ToolPermissionContext } from '../Tool.js'

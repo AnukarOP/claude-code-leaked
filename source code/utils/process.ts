@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 function handleEPIPE(
   stream: NodeJS.WriteStream,
 ): (err: NodeJS.ErrnoException) => void {

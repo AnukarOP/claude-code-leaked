@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * If the first line of a bash command is a `# comment` (not a `#!` shebang),
  * return the comment text stripped of the `#` prefix. Otherwise undefined.

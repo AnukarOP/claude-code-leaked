@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { createContext, useCallback, useContext, useMemo } from 'react'
 import { isProgressReportingAvailable, type Progress } from './terminal.js'
 import { BEL } from './termio/ansi.js'

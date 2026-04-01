@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Leaf stripBOM — extracted from json.ts to break settings → json → log →
  * types/logs → … → settings. json.ts imports this for its memoized+logging

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 type TriggerPosition = { word: string; start: number; end: number }
 
 const OPEN_TO_CLOSE: Record<string, string> = {

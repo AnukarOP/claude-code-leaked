@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Stub for external builds - classifier permissions feature is ANT-ONLY
 
 export const PROMPT_PREFIX = 'prompt:'

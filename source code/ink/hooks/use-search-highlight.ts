@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useContext, useMemo } from 'react'
 import StdinContext from '../components/StdinContext.js'
 import type { DOMElement } from '../dom.js'

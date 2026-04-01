@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { memoize } from 'lodash-es'
 import type { Command } from 'src/commands.js'
 import {

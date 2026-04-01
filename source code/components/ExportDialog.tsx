@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { join } from 'path';
 import React, { useCallback, useState } from 'react';
 import type { ExitState } from '../hooks/useExitOnCtrlCDWithKeybindings.js';

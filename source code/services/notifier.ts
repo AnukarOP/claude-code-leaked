@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { TerminalNotification } from '../ink/useTerminalNotification.js'
 import { getGlobalConfig } from '../utils/config.js'
 import { env } from '../utils/env.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Approved channel plugins allowlist. --channels plugin:name@marketplace
  * entries only register if {marketplace, plugin} is on this list. server:

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import axios from 'axios'
 import type { HookEvent } from 'src/entrypoints/agentSdkTypes.js'
 import { createCombinedAbortSignal } from '../combinedAbortSignal.js'

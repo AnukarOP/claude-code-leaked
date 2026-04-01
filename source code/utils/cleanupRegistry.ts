@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Global registry for cleanup functions that should run during graceful shutdown.
  * This module is separate from gracefulShutdown.ts to avoid circular dependencies.

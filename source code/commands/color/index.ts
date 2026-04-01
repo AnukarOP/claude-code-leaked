@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Color command - minimal metadata only.
  * Implementation is lazy-loaded from color.ts to reduce startup time.

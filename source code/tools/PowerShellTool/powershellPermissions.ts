@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * PowerShell-specific permission checking, adapted from bashPermissions.ts
  * for case-insensitive cmdlet matching.

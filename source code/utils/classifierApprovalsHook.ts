@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * React hook for classifierApprovals store.
  * Split from classifierApprovals.ts so pure-state importers (permissions.ts,

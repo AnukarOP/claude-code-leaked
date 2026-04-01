@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { logForDebugging } from '../debug.js'
 import { withResolvers } from '../withResolvers.js'
 import { requireComputerUseSwift } from './swiftLoader.js'

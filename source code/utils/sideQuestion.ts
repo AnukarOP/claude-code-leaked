@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Side Question ("/btw") feature - allows asking quick questions without
  * interrupting the main agent context.

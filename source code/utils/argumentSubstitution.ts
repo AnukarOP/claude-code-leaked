@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 /**
  * Utility for substituting $ARGUMENTS placeholders in skill/command prompts.
  *

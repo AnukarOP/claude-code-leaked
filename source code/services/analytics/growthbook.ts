@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { GrowthBook } from '@growthbook/growthbook'
 import { isEqual, memoize } from 'lodash-es'
 import {

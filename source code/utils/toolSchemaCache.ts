@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import type { BetaTool } from '@anthropic-ai/sdk/resources/beta/messages/messages.mjs'
 
 // Session-scoped cache of rendered tool schemas. Tool schemas render at server

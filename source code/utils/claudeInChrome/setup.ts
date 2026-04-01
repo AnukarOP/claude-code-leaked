@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { BROWSER_TOOLS } from '@ant/claude-for-chrome-mcp'
 import { chmod, mkdir, readFile, writeFile } from 'fs/promises'
 import { homedir } from 'os'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useCallback, useEffect } from 'react'
 import type { InputEvent } from '../ink/events/input-event.js'
 import { type Key, useInput } from '../ink.js'

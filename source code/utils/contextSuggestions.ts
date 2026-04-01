@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { BASH_TOOL_NAME } from '../tools/BashTool/toolName.js'
 import { FILE_READ_TOOL_NAME } from '../tools/FileReadTool/prompt.js'
 import { GREP_TOOL_NAME } from '../tools/GrepTool/prompt.js'

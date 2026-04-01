@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { execFileSync } from 'child_process'
 import { diffLines } from 'diff'
 import { constants as fsConstants } from 'fs'

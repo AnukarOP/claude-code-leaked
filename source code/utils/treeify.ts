@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import figures from 'figures'
 import { color } from '../components/design-system/color.js'
 import type { Theme, ThemeName } from './theme.js'

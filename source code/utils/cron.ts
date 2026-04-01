@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // Minimal cron expression parsing and next-run calculation.
 //
 // Supports the standard 5-field cron subset:

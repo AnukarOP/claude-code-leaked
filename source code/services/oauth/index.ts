@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { logEvent } from 'src/services/analytics/index.js'
 import { openBrowser } from '../../utils/browser.js'
 import { AuthCodeListener } from './auth-code-listener.js'

@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { basename } from 'path'
 import React from 'react'
 import { logError } from 'src/utils/log.js'

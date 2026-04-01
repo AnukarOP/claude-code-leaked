@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // These side-effects must run before all other imports:
 // 1. profileCheckpoint marks entry before heavy module evaluation begins
 // 2. startMdmRawRead fires MDM subprocesses (plutil/reg query) so they run in

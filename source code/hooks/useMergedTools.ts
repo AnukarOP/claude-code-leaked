@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 // biome-ignore-all assist/source/organizeImports: ANT-ONLY import markers must not be reordered
 import { useMemo } from 'react'
 import type { Tools, ToolPermissionContext } from '../Tool.js'

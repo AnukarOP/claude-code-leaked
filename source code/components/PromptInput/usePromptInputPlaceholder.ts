@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { feature } from 'bun:bundle'
 import { useMemo } from 'react'
 import { useCommandQueue } from 'src/hooks/useCommandQueue.js'

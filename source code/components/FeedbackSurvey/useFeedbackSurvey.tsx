@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useDynamicConfig } from 'src/hooks/useDynamicConfig.js';
 import { isFeedbackSurveyDisabled } from 'src/services/analytics/config.js';

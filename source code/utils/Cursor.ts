@@ -1,3 +1,6 @@
+// GitHub: https://github.com/AnukarOP
+// Repo: https://github.com/AnukarOP/claude-code-leaked
+
 import { stringWidth } from '../ink/stringWidth.js'
 import { wrapAnsi } from '../ink/wrapAnsi.js'
 import {
