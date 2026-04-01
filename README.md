@@ -17,7 +17,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/AnukarOP/claude-code-leaked?style=for-the-badge&logo=github&color=yellow)](https://github.com/AnukarOP/claude-code-leaked/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/AnukarOP/claude-code-leaked?style=for-the-badge&logo=github&color=blue)](https://github.com/AnukarOP/claude-code-leaked/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/AnukarOP/claude-code-leaked?style=for-the-badge&logo=github&color=green)](https://github.com/AnukarOP/claude-code-leaked/watchers)
-[![GitHub followers](https://img.shields.io/github/followers/AnukarOP?style=for-the-badge&logo=github&color=ff69b4&label=Followers)](https://github.com/AnukarOP?tab=followers)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
