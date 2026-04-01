@@ -48,10 +48,9 @@
 
 > **This repository contains the COMPLETE leaked source code of Anthropic's Claude Code** — the revolutionary AI-powered CLI that lets developers interact with Claude AI directly from their terminal.
 
-On **March 31, 2026**, security researcher [Chaofan Shou (@Fried_rice)](https://x.com/Fried_rice) discovered that Claude Code's full TypeScript source was accidentally exposed via a `.map` file in the npm package:
+On **March 31, 2026**, A security researcher discovered that Claude Code's full TypeScript source was accidentally exposed via a `.map` file in the npm package:
 
 > 🐦 *"Claude code source code has been leaked via a map file in their npm registry!"*
-> — [@Fried_rice](https://x.com/Fried_rice/status/2038894956459290963)
 
 The source map pointed to unobfuscated TypeScript files hosted on Anthropic's R2 storage — making the entire codebase publicly downloadable.
 
