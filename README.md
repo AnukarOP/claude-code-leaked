@@ -1,195 +1,203 @@
-# Claude Code Source Snapshot for Security Research
+<div align="center">
 
-> This repository mirrors a **publicly exposed Claude Code source snapshot** that became accessible on **March 31, 2026** through a source map exposure in the npm distribution. It is maintained for **educational, defensive security research, and software supply-chain analysis**.
+# 🔓 CLAUDE CODE SOURCE CODE LEAKED
 
----
+### ⚡ The Complete Anthropic Claude Code CLI Source Code ⚡
 
-## Research Context
+[![GitHub stars](https://img.shields.io/github/stars/AnukarOP/claude-code-leaked?style=for-the-badge&logo=github&color=yellow)](https://github.com/AnukarOP/claude-code-leaked/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AnukarOP/claude-code-leaked?style=for-the-badge&logo=github&color=blue)](https://github.com/AnukarOP/claude-code-leaked/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/AnukarOP/claude-code-leaked?style=for-the-badge&logo=github&color=green)](https://github.com/AnukarOP/claude-code-leaked/watchers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-This repository is maintained by a **university student** studying:
+<br/>
 
-- software supply-chain exposure and build artifact leaks
-- secure software engineering practices
-- agentic developer tooling architecture
-- defensive analysis of real-world CLI systems
-
-This archive is intended to support:
-
-- educational study
-- security research practice
-- architecture review
-- discussion of packaging and release-process failures
-
-It does **not** claim ownership of the original code, and it should not be interpreted as an official Anthropic repository.
+<img src="https://img.shields.io/badge/⚠️_LEAKED_SOURCE_CODE-FF0000?style=for-the-badge" alt="Leaked"/>
+<img src="https://img.shields.io/badge/512K+_LINES_OF_CODE-purple?style=for-the-badge" alt="Lines of Code"/>
+<img src="https://img.shields.io/badge/1900+_FILES-orange?style=for-the-badge" alt="Files"/>
 
 ---
 
-## How the Public Snapshot Became Accessible
+### 🚨 **FULL SOURCE CODE OF ANTHROPIC'S CLAUDE CODE CLI** 🚨
 
-[Chaofan Shou (@Fried_rice)](https://x.com/Fried_rice) publicly noted that Claude Code source material was reachable through a `.map` file exposed in the npm package:
+**The AI coding assistant that powers millions of developers worldwide**
 
-> **"Claude code source code has been leaked via a map file in their npm registry!"**
->
-> — [@Fried_rice, March 31, 2026](https://x.com/Fried_rice/status/2038894956459290963)
+*Leaked via npm source map exposure on March 31, 2026*
 
-The published source map referenced unobfuscated TypeScript sources hosted in Anthropic's R2 storage bucket, which made the `src/` snapshot publicly downloadable.
+<br/>
 
----
+[📂 Browse Source](#-directory-structure) • [🔧 Architecture](#️-architecture-overview) • [🛠️ Tools](#-tool-system) • [⚡ Commands](#-command-system) • [📊 Tech Stack](#-tech-stack)
 
-## Repository Scope
-
-Claude Code is Anthropic's CLI for interacting with Claude from the terminal to perform software engineering tasks such as editing files, running commands, searching codebases, and coordinating workflows.
-
-This repository contains a mirrored `src/` snapshot for research and analysis.
-
-- **Public exposure identified on**: 2026-03-31
-- **Language**: TypeScript
-- **Runtime**: Bun
-- **Terminal UI**: React + [Ink](https://github.com/vadimdemedes/ink)
-- **Scale**: ~1,900 files, 512,000+ lines of code
+</div>
 
 ---
 
-## Directory Structure
+## 🔥 What Is This?
 
-```text
-src/
-├── main.tsx                 # Entrypoint orchestration (Commander.js-based CLI path)
-├── commands.ts              # Command registry
-├── tools.ts                 # Tool registry
-├── Tool.ts                  # Tool type definitions
-├── QueryEngine.ts           # LLM query engine
-├── context.ts               # System/user context collection
-├── cost-tracker.ts          # Token cost tracking
+> **This repository contains the COMPLETE leaked source code of Anthropic's Claude Code** — the revolutionary AI-powered CLI that lets developers interact with Claude AI directly from their terminal.
+
+On **March 31, 2026**, security researcher [Chaofan Shou (@Fried_rice)](https://x.com/Fried_rice) discovered that Claude Code's full TypeScript source was accidentally exposed via a `.map` file in the npm package:
+
+> 🐦 *"Claude code source code has been leaked via a map file in their npm registry!"*
+> — [@Fried_rice](https://x.com/Fried_rice/status/2038894956459290963)
+
+The source map pointed to unobfuscated TypeScript files hosted on Anthropic's R2 storage — making the entire codebase publicly downloadable.
+
+---
+
+## ⭐ Why This Matters
+
+| Feature | Details |
+|---------|---------|
+| 🤖 **AI Agent Architecture** | See exactly how Claude Code's agentic system works |
+| 🔧 **40+ AI Tools** | File editing, web search, code execution, and more |
+| 💬 **50+ Commands** | Full slash command implementation |
+| 🔌 **MCP Protocol** | Model Context Protocol integration |
+| 🌐 **IDE Bridge** | VS Code & JetBrains integration code |
+| 🧠 **Multi-Agent System** | Agent swarm orchestration |
+| 🎤 **Voice Mode** | Voice input implementation |
+| 📊 **512,000+ Lines** | Production-grade TypeScript |
+
+---
+
+## 📂 Directory Structure
+
+```
+📦 source code folder/
+├── 🚀 main.tsx                 # CLI entrypoint
+├── 📋 commands.ts              # Command registry
+├── 🔧 tools.ts                 # Tool registry  
+├── 🤖 QueryEngine.ts           # LLM query engine (46K lines!)
+├── 📊 cost-tracker.ts          # Token cost tracking
 │
-├── commands/                # Slash command implementations (~50)
-├── tools/                   # Agent tool implementations (~40)
-├── components/              # Ink UI components (~140)
-├── hooks/                   # React hooks
-├── services/                # External service integrations
-├── screens/                 # Full-screen UIs (Doctor, REPL, Resume)
-├── types/                   # TypeScript type definitions
-├── utils/                   # Utility functions
-│
-├── bridge/                  # IDE and remote-control bridge
-├── coordinator/             # Multi-agent coordinator
-├── plugins/                 # Plugin system
-├── skills/                  # Skill system
-├── keybindings/             # Keybinding configuration
-├── vim/                     # Vim mode
-├── voice/                   # Voice input
-├── remote/                  # Remote sessions
-├── server/                  # Server mode
-├── memdir/                  # Persistent memory directory
-├── tasks/                   # Task management
-├── state/                   # State management
-├── migrations/              # Config migrations
-├── schemas/                 # Config schemas (Zod)
-├── entrypoints/             # Initialization logic
-├── ink/                     # Ink renderer wrapper
-├── buddy/                   # Companion sprite
-├── native-ts/               # Native TypeScript utilities
-├── outputStyles/            # Output styling
-├── query/                   # Query pipeline
-└── upstreamproxy/           # Proxy configuration
+├── 📁 commands/                # 50+ slash commands
+├── 📁 tools/                   # 40+ AI agent tools
+├── 📁 components/              # 140+ React/Ink UI components
+├── 📁 services/                # API, MCP, OAuth, LSP integrations
+├── 📁 bridge/                  # IDE communication layer
+├── 📁 coordinator/             # Multi-agent orchestration
+├── 📁 plugins/                 # Plugin system
+├── 📁 skills/                  # Skill system
+├── 📁 voice/                   # Voice input
+├── 📁 vim/                     # Vim mode
+└── 📁 ... and 20+ more directories
 ```
 
 ---
 
-## Architecture Summary
+## 🏗️ Architecture Overview
 
-### 1. Tool System (`src/tools/`)
+## 🛠️ Tool System
 
-Every tool Claude Code can invoke is implemented as a self-contained module. Each tool defines its input schema, permission model, and execution logic.
+> **Every capability Claude Code has is implemented as a modular tool**
 
-| Tool | Description |
-|---|---|
-| `BashTool` | Shell command execution |
-| `FileReadTool` | File reading (images, PDFs, notebooks) |
-| `FileWriteTool` | File creation / overwrite |
-| `FileEditTool` | Partial file modification (string replacement) |
-| `GlobTool` | File pattern matching search |
-| `GrepTool` | ripgrep-based content search |
-| `WebFetchTool` | Fetch URL content |
-| `WebSearchTool` | Web search |
-| `AgentTool` | Sub-agent spawning |
-| `SkillTool` | Skill execution |
-| `MCPTool` | MCP server tool invocation |
-| `LSPTool` | Language Server Protocol integration |
-| `NotebookEditTool` | Jupyter notebook editing |
-| `TaskCreateTool` / `TaskUpdateTool` | Task creation and management |
-| `SendMessageTool` | Inter-agent messaging |
-| `TeamCreateTool` / `TeamDeleteTool` | Team agent management |
-| `EnterPlanModeTool` / `ExitPlanModeTool` | Plan mode toggle |
-| `EnterWorktreeTool` / `ExitWorktreeTool` | Git worktree isolation |
-| `ToolSearchTool` | Deferred tool discovery |
-| `CronCreateTool` | Scheduled trigger creation |
-| `RemoteTriggerTool` | Remote trigger |
-| `SleepTool` | Proactive mode wait |
-| `SyntheticOutputTool` | Structured output generation |
+| Tool | Description | Category |
+|------|-------------|----------|
+| 🖥️ `BashTool` | Shell command execution | System |
+| 📖 `FileReadTool` | Read files, images, PDFs, notebooks | Files |
+| ✏️ `FileWriteTool` | Create and overwrite files | Files |
+| 🔧 `FileEditTool` | Partial file modification | Files |
+| 🔍 `GlobTool` | File pattern matching | Search |
+| 🔎 `GrepTool` | Content search (ripgrep) | Search |
+| 🌐 `WebFetchTool` | Fetch URL content | Web |
+| 🔍 `WebSearchTool` | Web search | Web |
+| 🤖 `AgentTool` | Spawn sub-agents | Agents |
+| ⚡ `SkillTool` | Execute skills | Skills |
+| 🔌 `MCPTool` | MCP server integration | Protocol |
+| 📡 `LSPTool` | Language Server Protocol | Protocol |
+| 📓 `NotebookEditTool` | Jupyter notebook editing | Files |
+| 📋 `TaskCreateTool` | Task management | Tasks |
+| 👥 `TeamCreateTool` | Team agent management | Agents |
+| 🗺️ `EnterPlanModeTool` | Planning mode | Modes |
+| 🌳 `EnterWorktreeTool` | Git worktree isolation | Git |
+| ⏰ `CronCreateTool` | Scheduled triggers | Automation |
+| 🎯 `SyntheticOutputTool` | Structured output | Output |
 
-### 2. Command System (`src/commands/`)
+---
 
-User-facing slash commands invoked with `/` prefix.
+## ⚡ Command System
+
+> **50+ slash commands for power users**
 
 | Command | Description |
-|---|---|
-| `/commit` | Create a git commit |
-| `/review` | Code review |
-| `/compact` | Context compression |
-| `/mcp` | MCP server management |
-| `/config` | Settings management |
-| `/doctor` | Environment diagnostics |
-| `/login` / `/logout` | Authentication |
-| `/memory` | Persistent memory management |
-| `/skills` | Skill management |
-| `/tasks` | Task management |
-| `/vim` | Vim mode toggle |
-| `/diff` | View changes |
-| `/cost` | Check usage cost |
-| `/theme` | Change theme |
-| `/context` | Context visualization |
-| `/pr_comments` | View PR comments |
-| `/resume` | Restore previous session |
-| `/share` | Share session |
-| `/desktop` | Desktop app handoff |
-| `/mobile` | Mobile app handoff |
+|---------|-------------|
+| `/commit` | 📝 Create git commits with AI-generated messages |
+| `/review` | 🔍 AI-powered code review |
+| `/compact` | 📦 Compress conversation context |
+| `/mcp` | 🔌 MCP server management |
+| `/config` | ⚙️ Settings management |
+| `/doctor` | 🏥 Environment diagnostics |
+| `/login` / `/logout` | 🔐 Authentication |
+| `/memory` | 🧠 Persistent memory management |
+| `/skills` | ⚡ Skill management |
+| `/tasks` | 📋 Task management |
+| `/vim` | ⌨️ Vim mode toggle |
+| `/diff` | 📊 View changes |
+| `/cost` | 💰 Check usage cost |
+| `/theme` | 🎨 Change theme |
+| `/pr_comments` | 💬 View PR comments |
+| `/resume` | ⏮️ Restore previous session |
+| `/share` | 🔗 Share session |
+| `/desktop` | 🖥️ Desktop app handoff |
 
-### 3. Service Layer (`src/services/`)
+---
+
+## 🔌 Service Layer
+
+> **External integrations and core services**
 
 | Service | Description |
-|---|---|
-| `api/` | Anthropic API client, file API, bootstrap |
-| `mcp/` | Model Context Protocol server connection and management |
-| `oauth/` | OAuth 2.0 authentication flow |
-| `lsp/` | Language Server Protocol manager |
-| `analytics/` | GrowthBook-based feature flags and analytics |
-| `plugins/` | Plugin loader |
-| `compact/` | Conversation context compression |
-| `policyLimits/` | Organization policy limits |
-| `remoteManagedSettings/` | Remote managed settings |
-| `extractMemories/` | Automatic memory extraction |
-| `tokenEstimation.ts` | Token count estimation |
-| `teamMemorySync/` | Team memory synchronization |
+|---------|-------------|
+| 🔗 `api/` | Anthropic API client & bootstrap |
+| 🔌 `mcp/` | Model Context Protocol integration |
+| 🔐 `oauth/` | OAuth 2.0 authentication |
+| 📡 `lsp/` | Language Server Protocol |
+| 📊 `analytics/` | Feature flags (GrowthBook) |
+| 🔌 `plugins/` | Plugin loader |
+| 📦 `compact/` | Context compression |
+| 🧠 `extractMemories/` | Auto memory extraction |
+| 👥 `teamMemorySync/` | Team memory sync |
 
-### 4. Bridge System (`src/bridge/`)
+---
 
-A bidirectional communication layer connecting IDE extensions (VS Code, JetBrains) with the Claude Code CLI.
+## 🌉 Bridge System
 
-- `bridgeMain.ts` — Bridge main loop
-- `bridgeMessaging.ts` — Message protocol
-- `bridgePermissionCallbacks.ts` — Permission callbacks
-- `replBridge.ts` — REPL session bridge
-- `jwtUtils.ts` — JWT-based authentication
-- `sessionRunner.ts` — Session execution management
+> **IDE integration layer for VS Code & JetBrains**
 
-### 5. Permission System (`src/hooks/toolPermission/`)
+```
+┌─────────────────┐     ┌─────────────────┐
+│   VS Code /     │◄───►│  Claude Code    │
+│   JetBrains     │     │     CLI         │
+└─────────────────┘     └─────────────────┘
+         │                      │
+         └──────────┬───────────┘
+                    │
+         ┌──────────▼──────────┐
+         │   Bridge Protocol   │
+         │  - JWT Auth         │
+         │  - Message Protocol │
+         │  - Permission CB    │
+         └─────────────────────┘
+```
 
-Checks permissions on every tool invocation. Either prompts the user for approval/denial or automatically resolves based on the configured permission mode (`default`, `plan`, `bypassPermissions`, `auto`, etc.).
+---
 
-### 6. Feature Flags
+## 🔒 Permission System
 
-Dead code elimination via Bun's `bun:bundle` feature flags:
+> **Security-first design with granular permissions**
+
+Checks permissions on every tool invocation:
+- ✅ `default` - Ask for approval
+- 📋 `plan` - Plan mode restrictions
+- ⚡ `auto` - Automatic approval
+- 🔓 `bypassPermissions` - Skip checks
+
+---
+
+## 🚀 Feature Flags
+
+Dead code elimination via Bun's `bun:bundle`:
 
 ```typescript
 import { feature } from 'bun:bundle'
@@ -200,81 +208,121 @@ const voiceCommand = feature('VOICE_MODE')
   : null
 ```
 
-Notable flags: `PROACTIVE`, `KAIROS`, `BRIDGE_MODE`, `DAEMON`, `VOICE_MODE`, `AGENT_TRIGGERS`, `MONITOR_TOOL`
+**Notable flags:** `PROACTIVE`, `KAIROS`, `BRIDGE_MODE`, `DAEMON`, `VOICE_MODE`, `AGENT_TRIGGERS`, `MONITOR_TOOL`
 
 ---
 
-## Key Files in Detail
+## 📊 Key Files
 
-### `QueryEngine.ts` (~46K lines)
-
-The core engine for LLM API calls. Handles streaming responses, tool-call loops, thinking mode, retry logic, and token counting.
-
-### `Tool.ts` (~29K lines)
-
-Defines base types and interfaces for all tools — input schemas, permission models, and progress state types.
-
-### `commands.ts` (~25K lines)
-
-Manages registration and execution of all slash commands. Uses conditional imports to load different command sets per environment.
-
-### `main.tsx`
-
-Commander.js-based CLI parser and React/Ink renderer initialization. At startup, it overlaps MDM settings, keychain prefetch, and GrowthBook initialization for faster boot.
+| File | Lines | Description |
+|------|-------|-------------|
+| 🧠 `QueryEngine.ts` | **~46,000** | Core LLM engine - streaming, tool loops, retry logic |
+| 🔧 `Tool.ts` | **~29,000** | Tool interfaces & permission models |
+| 📋 `commands.ts` | **~25,000** | Command registry & execution |
+| 🚀 `main.tsx` | - | CLI entrypoint with parallel prefetch |
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" width="40"/><br/><b>Bun</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br/><b>TypeScript</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br/><b>React</b></td>
+<td align="center"><img src="https://zod.dev/logo.svg" width="40"/><br/><b>Zod</b></td>
+</tr>
+</table>
 
 | Category | Technology |
-|---|---|
-| Runtime | [Bun](https://bun.sh) |
-| Language | TypeScript (strict) |
-| Terminal UI | [React](https://react.dev) + [Ink](https://github.com/vadimdemedes/ink) |
-| CLI Parsing | [Commander.js](https://github.com/tj/commander.js) (extra-typings) |
-| Schema Validation | [Zod v4](https://zod.dev) |
-| Code Search | [ripgrep](https://github.com/BurntSushi/ripgrep) |
-| Protocols | [MCP SDK](https://modelcontextprotocol.io), LSP |
-| API | [Anthropic SDK](https://docs.anthropic.com) |
-| Telemetry | OpenTelemetry + gRPC |
-| Feature Flags | GrowthBook |
-| Auth | OAuth 2.0, JWT, macOS Keychain |
+|----------|------------|
+| ⚡ **Runtime** | [Bun](https://bun.sh) - Ultra-fast JavaScript runtime |
+| 📝 **Language** | TypeScript (strict mode) |
+| 🖥️ **Terminal UI** | [React](https://react.dev) + [Ink](https://github.com/vadimdemedes/ink) |
+| 🔧 **CLI Parsing** | [Commander.js](https://github.com/tj/commander.js) |
+| ✅ **Validation** | [Zod v4](https://zod.dev) |
+| 🔍 **Code Search** | [ripgrep](https://github.com/BurntSushi/ripgrep) |
+| 🔌 **Protocols** | MCP SDK, LSP |
+| 🤖 **API** | [Anthropic SDK](https://docs.anthropic.com) |
+| 📊 **Telemetry** | OpenTelemetry + gRPC |
+| 🚩 **Feature Flags** | GrowthBook |
+| 🔐 **Auth** | OAuth 2.0, JWT, macOS Keychain |
 
 ---
 
-## Notable Design Patterns
+## 🎯 Notable Design Patterns
 
-### Parallel Prefetch
-
-Startup time is optimized by prefetching MDM settings, keychain reads, and API preconnect in parallel before heavy module evaluation begins.
-
+### ⚡ Parallel Prefetch
 ```typescript
-// main.tsx — fired as side-effects before other imports
-startMdmRawRead()
-startKeychainPrefetch()
+// main.tsx — blazing fast startup
+startMdmRawRead()      // MDM settings
+startKeychainPrefetch() // Keychain reads
+// All run in parallel before heavy imports!
 ```
 
-### Lazy Loading
+### 📦 Lazy Loading
+Heavy modules loaded only when needed:
+- OpenTelemetry
+- gRPC
+- Analytics
+- Feature-gated subsystems
 
-Heavy modules (OpenTelemetry, gRPC, analytics, and some feature-gated subsystems) are deferred via dynamic `import()` until actually needed.
+### 🤖 Agent Swarms
+Multi-agent orchestration via `coordinator/` — spawn sub-agents with `AgentTool`, create teams with `TeamCreateTool`
 
-### Agent Swarms
+### ⚡ Skill System
+Reusable workflows in `skills/` executed via `SkillTool` — extensible with custom skills
 
-Sub-agents are spawned via `AgentTool`, with `coordinator/` handling multi-agent orchestration. `TeamCreateTool` enables team-level parallel work.
-
-### Skill System
-
-Reusable workflows defined in `skills/` are executed through `SkillTool`. Users can add custom skills.
-
-### Plugin Architecture
-
-Built-in and third-party plugins are loaded through the `plugins/` subsystem.
+### 🔌 Plugin Architecture
+Full plugin system in `plugins/` for built-in and third-party extensions
 
 ---
 
-## Research / Ownership Disclaimer
+## 🔗 Quick Links
 
-- This repository is an **educational and defensive security research archive** maintained by a university student.
-- It exists to study source exposure, packaging failures, and the architecture of modern agentic CLI systems.
-- The original Claude Code source remains the property of **Anthropic**.
-- This repository is **not affiliated with, endorsed by, or maintained by Anthropic**.
+<div align="center">
+
+| Resource | Link |
+|----------|------|
+| 📂 Source Code | [`source code folder/`](source%20code%20folder/) |
+| 🔧 Tools | [`source code folder/tools/`](source%20code%20folder/tools/) |
+| ⚡ Commands | [`source code folder/commands/`](source%20code%20folder/commands/) |
+| 🎨 Components | [`source code folder/components/`](source%20code%20folder/components/) |
+| 🌉 Bridge | [`source code folder/bridge/`](source%20code%20folder/bridge/) |
+
+</div>
+
+---
+
+## ⚠️ Disclaimer
+
+<div align="center">
+
+**This repository is for educational and security research purposes only.**
+
+The original Claude Code source is the property of **Anthropic**.
+This repository is **NOT** affiliated with, endorsed by, or maintained by Anthropic.
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Star This Repo!
+
+**If you found this useful, please give it a star!**
+
+[![GitHub stars](https://img.shields.io/github/stars/AnukarOP/claude-code-leaked?style=for-the-badge&logo=github&color=yellow)](https://github.com/AnukarOP/claude-code-leaked/stargazers)
+
+---
+
+### 🔍 Keywords / Tags
+
+`claude` `anthropic` `claude-code` `ai` `artificial-intelligence` `llm` `large-language-model` `cli` `command-line` `typescript` `bun` `react` `ink` `terminal` `ai-coding` `ai-assistant` `code-assistant` `developer-tools` `source-code` `leaked` `security-research` `mcp` `model-context-protocol` `agent` `ai-agent` `multi-agent`
+
+---
+
+<sub>Made with ❤️ for the developer community</sub>
+
+</div>
