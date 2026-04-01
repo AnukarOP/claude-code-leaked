@@ -11,19 +11,11 @@
 <a href="https://github.com/AnukarOP">
 <img src="https://img.shields.io/badge/⭐_FOLLOW_@AnukarOP_⭐-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow AnukarOP" height="35"/>
 </a>
-
 <br/><br/>
-
-[![GitHub stars](https://img.shields.io/github/stars/AnukarOP/claude-code-leaked?style=for-the-badge&logo=github&color=yellow)](https://github.com/AnukarOP/claude-code-leaked/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/AnukarOP/claude-code-leaked?style=for-the-badge&logo=github&color=blue)](https://github.com/AnukarOP/claude-code-leaked/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/AnukarOP/claude-code-leaked?style=for-the-badge&logo=github&color=green)](https://github.com/AnukarOP/claude-code-leaked/watchers)
-
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-
 <br/>
-
 <img src="https://img.shields.io/badge/⚠️_LEAKED_SOURCE_CODE-FF0000?style=for-the-badge" alt="Leaked"/>
 <img src="https://img.shields.io/badge/512K+_LINES_OF_CODE-purple?style=for-the-badge" alt="Lines of Code"/>
 <img src="https://img.shields.io/badge/1900+_FILES-orange?style=for-the-badge" alt="Files"/>
@@ -74,7 +66,7 @@ The source map pointed to unobfuscated TypeScript files hosted on Anthropic's R2
 ## 📂 Directory Structure
 
 ```
-📦 source code folder/
+📦 source code/
 ├── 🚀 main.tsx                 # CLI entrypoint
 ├── 📋 commands.ts              # Command registry
 ├── 🔧 tools.ts                 # Tool registry  
@@ -294,11 +286,11 @@ Full plugin system in `plugins/` for built-in and third-party extensions
 
 | Resource | Link |
 |----------|------|
-| 📂 Source Code | [`source code folder/`](source%20code%20folder/) |
-| 🔧 Tools | [`source code folder/tools/`](source%20code%20folder/tools/) |
-| ⚡ Commands | [`source code folder/commands/`](source%20code%20folder/commands/) |
-| 🎨 Components | [`source code folder/components/`](source%20code%20folder/components/) |
-| 🌉 Bridge | [`source code folder/bridge/`](source%20code%20folder/bridge/) |
+| 📂 Source Code | [`source code/`](source%20code/) |
+| 🔧 Tools | [`source code/tools/`](source%20code/tools/) |
+| ⚡ Commands | [`source code/commands/`](source%20code/commands/) |
+| 🎨 Components | [`source code/components/`](source%20code/components/) |
+| 🌉 Bridge | [`source code/bridge/`](source%20code/bridge/) |
 
 </div>
 
