@@ -1,6 +1,6 @@
 <div align="center">
 
-# - CLAUDE CODE SOURCE LEAKED :)
+# CLAUDE CODE SOURCE :)
 
 ### ⚡ The Complete Anthropic Claude Code CLI Source Code ⚡
 <br/>
@@ -321,7 +321,7 @@ This repository is **NOT** affiliated with, endorsed by, or maintained by Anthro
 
 ### 🔍 Keywords / Tags
 
-`claude` `anthropic` `claude-code` `ai` `artificial-intelligence` `llm` `large-language-model` `cli` `command-line` `typescript` `bun` `react` `ink` `terminal` `ai-coding` `ai-assistant` `code-assistant` `developer-tools` `source-code` `leaked` `security-research` `mcp` `model-context-protocol` `agent` `ai-agent` `multi-agent`
+`claude` `anthropic` `claude-code` `ai` `artificial-intelligence` `llm` `large-language-model` `cli` `command-line` `typescript` `bun` `react` `ink` `terminal` `ai-coding` `ai-assistant` `code-assistant` `developer-tools` `source-code` `security-research` `mcp` `model-context-protocol` `agent` `ai-agent` `multi-agent`
 
 ---
 
